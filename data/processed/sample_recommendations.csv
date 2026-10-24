@@ -1,0 +1,6 @@
+Clothing ID,Review_Count,Average_Rating,Recommendation_Rate,Average_Sentiment,Average_Positive_Feedback,Division_Name,Department_Name,Class_Name,Review_Confidence,Rating_Score,Sentiment_Score,Feedback_Score,Weighted_Score,Similarity_Score,Final_Recommendation_Score
+7,1,5.0,100.0,0.2143,0.0,General,Jackets,Outerwear,0.1,1.0,0.6072,0.0,0.4518,0.8535,0.7495
+19,1,4.0,100.0,-0.072,0.0,General,Jackets,Outerwear,0.1,0.8,0.464,0.0,0.3921,0.9062,0.7297
+1118,5,4.8,80.0,0.1501,1.0,General,Jackets,Outerwear,0.2586,0.96,0.5751,0.0312,0.467,0.8374,0.7144
+979,4,5.0,100.0,0.1727,0.5,General,Jackets,Jackets,0.2323,1.0,0.5864,0.0156,0.5045,0.7124,0.7116
+548,1,5.0,100.0,-0.15,0.0,General,Trend,Trend,0.1,1.0,0.425,0.0,0.4318,0.7712,0.7096

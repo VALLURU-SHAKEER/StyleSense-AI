@@ -1,0 +1,1207 @@
+Clothing ID,Review_Count,Average_Rating,Recommendation_Rate,Average_Sentiment,Average_Positive_Feedback,Division_Name,Department_Name,Class_Name
+0,1,5.0,100.0,0.0,0.0,General,Jackets,Outerwear
+1,3,4.0,66.67,0.3587,0.33,Intimates,Intimate,Layering
+2,1,4.0,100.0,-0.1455,0.0,General,Tops,Knits
+3,1,5.0,100.0,0.2222,0.0,General,Tops,Sweaters
+4,1,5.0,100.0,0.2829,0.0,General,Tops,Sweaters
+5,1,5.0,100.0,0.4458,0.0,General,Tops,Sweaters
+6,1,5.0,100.0,0.0,0.0,General,Tops,Sweaters
+7,1,5.0,100.0,0.2143,0.0,General,Jackets,Outerwear
+8,7,3.57,57.14,0.2179,0.29,Intimates,Intimate,Swim
+9,1,4.0,100.0,0.1722,0.0,General,Bottoms,Jeans
+10,1,4.0,100.0,0.6,0.0,Intimates,Intimate,Chemises
+11,1,2.0,0.0,-0.1857,0.0,General,Bottoms,Jeans
+12,1,5.0,100.0,0.1613,0.0,General,Tops,Knits
+13,1,4.0,100.0,0.0438,0.0,General,Dresses,Dresses
+14,1,5.0,100.0,0.184,0.0,Intimates,Intimate,Intimates
+15,2,3.5,50.0,0.522,0.0,Intimates,Intimate,Layering
+16,1,5.0,100.0,0.2963,0.0,General,Dresses,Dresses
+17,1,5.0,100.0,0.4179,0.0,General,Dresses,Dresses
+18,1,1.0,0.0,0.2625,0.0,General Petite,Bottoms,Jeans
+19,1,4.0,100.0,-0.072,0.0,General,Jackets,Outerwear
+20,1,4.0,100.0,0.2419,0.0,General,Dresses,Dresses
+21,1,5.0,100.0,0.1067,0.0,General Petite,Tops,Fine gauge
+22,1,5.0,100.0,0.4333,0.0,General,Tops,Knits
+23,1,5.0,100.0,0.825,0.0,General Petite,Dresses,Dresses
+24,8,4.5,87.5,0.2008,0.0,Intimates,Intimate,Swim
+25,1,5.0,100.0,0.47,0.0,General,Tops,Knits
+26,1,4.0,100.0,0.1816,0.0,General,Dresses,Dresses
+27,1,5.0,100.0,0.4,0.0,Intimates,Intimate,Intimates
+28,1,5.0,100.0,0.1125,0.0,Intimates,Intimate,Swim
+29,1,5.0,100.0,0.2964,0.0,General Petite,Dresses,Dresses
+30,1,4.0,100.0,0.1862,0.0,General Petite,Dresses,Dresses
+31,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Swim
+32,1,4.0,100.0,0.2264,0.0,Intimates,Intimate,Intimates
+33,1,4.0,100.0,0.2072,0.0,Intimates,Intimate,Intimates
+34,1,5.0,100.0,0.4426,0.0,Intimates,Intimate,Intimates
+35,3,5.0,100.0,0.3065,1.0,Intimates,Intimate,Intimates
+36,1,5.0,100.0,0.0,0.0,General,Bottoms,Shorts
+37,4,5.0,100.0,0.3228,1.25,Intimates,Intimate,Intimates
+38,3,5.0,100.0,0.1229,0.0,Intimates,Intimate,Intimates
+39,2,5.0,100.0,0.3146,1.0,Intimates,Intimate,Intimates
+40,3,4.33,100.0,0.3434,0.33,Intimates,Intimate,Intimates
+41,1,5.0,100.0,0.35,0.0,Intimates,Intimate,Legwear
+42,3,5.0,100.0,0.2,0.67,Intimates,Intimate,Intimates
+43,1,5.0,100.0,0.3031,0.0,Intimates,Intimate,Intimates
+44,1,5.0,100.0,0.31,0.0,Intimates,Intimate,Intimates
+45,1,4.0,100.0,0.33,0.0,General,Bottoms,Casual bottoms
+46,3,4.0,66.67,0.2745,2.33,Intimates,Intimate,Intimates
+47,1,4.0,100.0,0.5869,0.0,Intimates,Intimate,Swim
+48,1,5.0,100.0,0.605,0.0,Intimates,Intimate,Intimates
+49,1,5.0,100.0,0.105,2.0,Intimates,Intimate,Intimates
+50,1,5.0,100.0,0.5833,0.0,Intimates,Intimate,Intimates
+51,1,5.0,100.0,0.4375,0.0,Intimates,Intimate,Layering
+52,2,5.0,100.0,0.3506,0.0,General,Bottoms,Shorts
+53,1,5.0,0.0,-0.15,0.0,General,Bottoms,Shorts
+54,1,5.0,100.0,0.0,0.0,General,Bottoms,Casual bottoms
+55,1,5.0,100.0,0.2375,0.0,General,Bottoms,Shorts
+56,1,5.0,100.0,0.375,1.0,Intimates,Intimate,Intimates
+57,1,5.0,100.0,0.2778,0.0,Intimates,Intimate,Intimates
+58,1,5.0,100.0,0.0909,2.0,Intimates,Intimate,Intimates
+59,2,5.0,100.0,0.2696,1.5,Intimates,Intimate,Intimates
+60,1,4.0,100.0,0.425,0.0,Intimates,Intimate,Lounge
+61,4,4.0,75.0,0.02,0.0,Intimates,Intimate,Layering
+62,1,3.0,100.0,0.6083,0.0,General Petite,Intimate,Lounge
+63,1,3.0,0.0,0.0414,0.0,General,Bottoms,Shorts
+64,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Sleep
+65,1,5.0,100.0,0.1471,0.0,General,Bottoms,Shorts
+66,2,4.5,100.0,0.2529,0.0,Intimates,Intimate,Sleep
+67,1,5.0,100.0,0.2929,0.0,Intimates,Intimate,Layering
+68,2,5.0,100.0,0.575,0.0,Intimates,Intimate,Layering
+69,1,5.0,100.0,0.0917,0.0,Intimates,Intimate,Layering
+70,1,5.0,100.0,0.2857,0.0,General,Bottoms,Shorts
+71,1,5.0,100.0,0.3,0.0,Intimates,Intimate,Legwear
+72,1,5.0,100.0,0.1079,0.0,Unknown,Unknown,Unknown
+73,1,5.0,100.0,0.475,0.0,Intimates,Intimate,Intimates
+74,1,4.0,100.0,0.1302,1.0,Intimates,Intimate,Intimates
+75,1,5.0,100.0,0.3419,1.0,General,Bottoms,Shorts
+76,1,5.0,100.0,0.5062,0.0,Intimates,Intimate,Legwear
+77,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Legwear
+78,1,4.0,100.0,0.3607,0.0,Intimates,Intimate,Intimates
+79,1,5.0,100.0,-0.0738,0.0,Intimates,Intimate,Swim
+80,1,2.0,0.0,-0.0667,0.0,Intimates,Intimate,Swim
+81,1,5.0,100.0,0.45,0.0,Intimates,Intimate,Legwear
+82,2,4.0,100.0,0.5199,0.0,Intimates,Intimate,Lounge
+83,1,5.0,100.0,0.2108,0.0,Intimates,Intimate,Intimates
+84,1,4.0,100.0,0.4367,0.0,Intimates,Intimate,Intimates
+85,1,5.0,100.0,0.3632,0.0,Intimates,Intimate,Intimates
+86,1,4.0,100.0,0.45,0.0,Intimates,Intimate,Intimates
+87,1,3.0,0.0,0.407,1.0,Intimates,Intimate,Intimates
+88,1,4.0,100.0,0.5867,0.0,Intimates,Intimate,Intimates
+89,1,4.0,100.0,0.1499,1.0,Intimates,Intimate,Sleep
+90,14,4.21,85.71,0.2607,0.43,Intimates,Intimate,Legwear
+91,1,1.0,0.0,-0.1674,12.0,Intimates,Intimate,Sleep
+92,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Intimates
+93,2,3.0,50.0,0.2687,0.0,Intimates,Intimate,Sleep
+94,1,3.0,0.0,0.1182,32.0,Intimates,Intimate,Lounge
+95,1,3.0,0.0,-0.0247,0.0,Intimates,Intimate,Intimates
+96,1,2.0,0.0,0.1833,5.0,Intimates,Intimate,Intimates
+97,1,4.0,100.0,0.0,0.0,Intimates,Intimate,Sleep
+98,1,5.0,100.0,0.1278,0.0,Intimates,Intimate,Intimates
+99,1,2.0,100.0,-0.0357,1.0,Intimates,Intimate,Intimates
+100,1,4.0,100.0,0.1048,3.0,Intimates,Intimate,Intimates
+101,1,5.0,100.0,0.1146,0.0,Intimates,Intimate,Intimates
+102,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Intimates
+103,1,4.0,100.0,0.0189,1.0,Intimates,Intimate,Layering
+104,1,2.0,0.0,0.0267,0.0,Intimates,Intimate,Lounge
+105,1,5.0,100.0,0.3607,0.0,Intimates,Intimate,Lounge
+106,1,2.0,0.0,0.0427,0.0,Intimates,Intimate,Sleep
+107,8,4.62,87.5,0.3244,0.38,Intimates,Intimate,Sleep
+108,1,5.0,100.0,-0.0667,0.0,Intimates,Intimate,Lounge
+109,4,4.75,100.0,0.2232,0.5,Intimates,Intimate,Layering
+110,1,3.0,0.0,0.0454,0.0,Intimates,Intimate,Lounge
+111,1,5.0,100.0,0.4199,0.0,Intimates,Intimate,Lounge
+112,2,4.5,100.0,0.3225,0.0,General Petite,Intimate,Lounge
+113,1,4.0,100.0,0.2727,3.0,Intimates,Intimate,Sleep
+114,1,3.0,0.0,0.2773,10.0,Intimates,Intimate,Lounge
+115,2,3.5,100.0,0.2163,0.0,Intimates,Intimate,Sleep
+116,6,3.67,66.67,0.1576,4.33,Intimates,Intimate,Sleep
+117,4,4.25,100.0,0.2966,0.25,Intimates,Intimate,Legwear
+118,1,1.0,0.0,-0.2438,0.0,Intimates,Intimate,Sleep
+119,3,4.67,100.0,0.4164,0.0,Intimates,Intimate,Swim
+120,1,5.0,100.0,0.3917,3.0,Intimates,Intimate,Swim
+121,6,3.83,66.67,0.2334,4.83,Intimates,Intimate,Layering
+122,2,5.0,100.0,0.3986,0.0,Intimates,Intimate,Sleep
+123,9,4.78,100.0,0.3409,0.67,Intimates,Intimate,Sleep
+124,5,4.4,80.0,0.2007,0.8,Intimates,Intimate,Sleep
+125,2,3.0,50.0,0.186,0.0,Intimates,Intimate,Layering
+126,1,4.0,100.0,0.0293,1.0,Intimates,Intimate,Lounge
+127,6,4.0,83.33,0.1751,0.5,General Petite,Intimate,Lounge
+128,6,4.33,83.33,0.1987,0.17,General Petite,Intimate,Lounge
+129,9,4.56,88.89,0.2339,1.22,Intimates,Intimate,Sleep
+130,1,5.0,100.0,-0.0907,0.0,Intimates,Intimate,Layering
+131,5,4.2,80.0,0.1878,1.2,General,Bottoms,Shorts
+132,5,4.4,80.0,0.164,0.0,General,Bottoms,Shorts
+133,3,5.0,100.0,0.2308,0.67,General,Bottoms,Shorts
+134,3,5.0,100.0,0.272,0.0,General Petite,Intimate,Lounge
+135,4,4.75,100.0,0.2943,1.5,General Petite,Bottoms,Pants
+136,3,5.0,100.0,0.2746,0.33,Unknown,Unknown,Unknown
+137,1,5.0,100.0,0.0804,0.0,Intimates,Intimate,Legwear
+138,1,5.0,100.0,0.3976,5.0,Intimates,Intimate,Lounge
+139,4,4.5,100.0,0.2925,0.5,Intimates,Intimate,Layering
+140,1,4.0,100.0,0.1608,1.0,Intimates,Intimate,Legwear
+141,1,5.0,100.0,0.3,0.0,Intimates,Intimate,Legwear
+142,5,3.6,80.0,0.2107,0.4,Intimates,Intimate,Legwear
+143,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Layering
+144,6,5.0,100.0,0.453,0.83,Intimates,Intimate,Legwear
+145,4,5.0,100.0,0.3142,5.5,Intimates,Intimate,Sleep
+146,4,4.75,100.0,0.3439,3.0,General Petite,Intimate,Lounge
+147,4,5.0,100.0,0.1736,3.25,Intimates,Intimate,Sleep
+148,3,5.0,100.0,0.3961,7.0,Intimates,Intimate,Sleep
+149,2,4.0,100.0,0.2166,0.5,Intimates,Intimate,Lounge
+150,5,4.0,80.0,0.2092,0.6,Intimates,Intimate,Sleep
+151,1,4.0,100.0,0.0388,2.0,Intimates,Intimate,Legwear
+152,3,5.0,100.0,0.1572,0.0,Unknown,Unknown,Unknown
+153,1,3.0,0.0,0.1802,0.0,Intimates,Intimate,Legwear
+154,9,4.11,77.78,0.2246,0.67,Intimates,Intimate,Sleep
+155,13,4.15,92.31,0.2109,1.0,Intimates,Intimate,Legwear
+156,2,5.0,100.0,0.3329,0.0,Intimates,Intimate,Legwear
+157,3,4.67,100.0,0.2349,0.33,Intimates,Intimate,Legwear
+158,1,5.0,100.0,0.1574,1.0,Intimates,Intimate,Legwear
+159,1,3.0,100.0,0.3456,0.0,Intimates,Intimate,Lounge
+160,1,5.0,100.0,0.45,1.0,Intimates,Intimate,Intimates
+161,1,5.0,100.0,0.212,1.0,Intimates,Intimate,Legwear
+162,2,4.5,100.0,0.2761,1.5,Intimates,Intimate,Legwear
+163,2,5.0,100.0,0.4315,8.5,Intimates,Intimate,Legwear
+164,2,4.0,100.0,0.1391,0.0,Intimates,Intimate,Lounge
+165,2,4.0,50.0,0.2411,1.0,Intimates,Intimate,Lounge
+166,8,4.62,87.5,0.3192,0.88,Intimates,Intimate,Layering
+167,7,5.0,100.0,0.2887,0.71,General,Bottoms,Shorts
+168,2,4.0,50.0,0.1528,1.0,Intimates,Intimate,Sleep
+169,36,4.44,88.89,0.2703,1.64,Intimates,Intimate,Legwear
+170,5,3.4,80.0,0.0845,7.0,Intimates,Intimate,Sleep
+171,1,5.0,100.0,0.3465,0.0,Intimates,Intimate,Layering
+172,8,4.25,75.0,0.2383,1.0,Intimates,Intimate,Sleep
+173,1,5.0,100.0,0.2951,0.0,Intimates,Intimate,Intimates
+174,1,3.0,0.0,0.3259,0.0,Intimates,Intimate,Swim
+175,1,3.0,100.0,0.075,0.0,Intimates,Intimate,Swim
+176,5,3.8,80.0,0.1689,1.6,Intimates,Intimate,Sleep
+177,4,5.0,100.0,0.3334,2.0,General,Bottoms,Shorts
+178,1,3.0,0.0,0.2669,0.0,Intimates,Intimate,Intimates
+179,1,3.0,0.0,0.2625,2.0,Intimates,Intimate,Intimates
+180,3,4.33,66.67,0.2571,0.0,Intimates,Intimate,Sleep
+181,1,5.0,100.0,0.2867,0.0,Intimates,Intimate,Legwear
+182,1,5.0,100.0,0.161,6.0,Intimates,Intimate,Legwear
+183,4,2.75,25.0,0.1915,4.5,Intimates,Intimate,Legwear
+184,2,5.0,100.0,0.3482,2.5,Unknown,Unknown,Unknown
+185,1,2.0,0.0,0.1102,1.0,Intimates,Intimate,Legwear
+186,1,5.0,100.0,0.1773,0.0,Intimates,Intimate,Legwear
+187,3,4.33,100.0,0.3051,0.67,Intimates,Intimate,Legwear
+188,2,5.0,100.0,0.2225,0.5,Intimates,Intimate,Legwear
+189,2,5.0,100.0,0.2265,2.0,Intimates,Intimate,Legwear
+190,8,4.38,75.0,0.2459,0.62,General Petite,Intimate,Lounge
+191,2,4.0,50.0,0.2537,1.0,General,Bottoms,Shorts
+192,1,2.0,0.0,-0.025,0.0,Intimates,Intimate,Lounge
+193,9,4.56,100.0,0.2654,2.56,Intimates,Intimate,Sleep
+194,17,4.47,88.24,0.1927,1.94,General Petite,Intimate,Lounge
+195,1,5.0,100.0,0.3333,0.0,Intimates,Intimate,Lounge
+196,5,5.0,100.0,0.2601,1.4,Intimates,Intimate,Sleep
+197,1,3.0,0.0,0.0595,0.0,Intimates,Intimate,Swim
+198,2,3.5,50.0,0.0022,1.0,Intimates,Intimate,Swim
+199,1,5.0,100.0,0.2778,2.0,Intimates,Intimate,Swim
+200,2,4.0,100.0,0.1118,5.5,Intimates,Intimate,Sleep
+201,1,5.0,100.0,0.3565,0.0,Intimates,Intimate,Legwear
+202,2,5.0,100.0,0.2055,0.0,Intimates,Intimate,Intimates
+203,1,4.0,100.0,0.3485,5.0,Intimates,Intimate,Lounge
+204,1,5.0,100.0,0.2286,0.0,Intimates,Intimate,Intimates
+205,3,5.0,100.0,0.2056,0.33,Intimates,Intimate,Layering
+206,1,5.0,100.0,0.1023,2.0,Intimates,Intimate,Sleep
+207,1,3.0,0.0,-0.0286,1.0,Intimates,Intimate,Intimates
+208,1,5.0,100.0,0.194,6.0,Intimates,Intimate,Layering
+209,1,5.0,100.0,0.1163,0.0,Intimates,Intimate,Intimates
+210,1,2.0,0.0,-0.0583,2.0,Intimates,Intimate,Layering
+211,1,4.0,100.0,0.3,2.0,Intimates,Intimate,Intimates
+212,1,5.0,100.0,0.0643,1.0,Intimates,Intimate,Swim
+213,2,4.5,100.0,0.2884,0.0,Intimates,Intimate,Swim
+214,1,3.0,0.0,-0.25,1.0,Intimates,Intimate,Sleep
+215,9,4.56,100.0,0.2359,2.22,Intimates,Intimate,Legwear
+216,1,5.0,100.0,0.4401,0.0,Intimates,Intimate,Lounge
+217,1,4.0,100.0,0.1875,0.0,Intimates,Intimate,Lounge
+218,1,3.0,0.0,0.43,3.0,Intimates,Intimate,Swim
+219,1,1.0,0.0,0.2611,0.0,Intimates,Intimate,Swim
+220,2,2.0,0.0,0.1262,0.5,Intimates,Intimate,Swim
+221,1,5.0,100.0,0.1724,3.0,Intimates,Intimate,Swim
+222,1,5.0,100.0,0.425,3.0,Intimates,Intimate,Swim
+223,2,4.5,100.0,0.2812,0.5,Intimates,Intimate,Legwear
+224,1,5.0,100.0,0.3161,3.0,Intimates,Intimate,Swim
+225,6,4.33,83.33,0.2293,0.5,Intimates,Intimate,Legwear
+226,4,3.25,50.0,0.2553,0.75,Intimates,Intimate,Sleep
+227,2,4.0,100.0,0.2365,1.5,Intimates,Intimate,Layering
+228,4,4.25,100.0,0.2262,1.75,Intimates,Intimate,Legwear
+229,11,2.18,27.27,0.1019,2.18,Intimates,Intimate,Legwear
+230,1,5.0,100.0,0.3833,1.0,Intimates,Intimate,Intimates
+231,2,5.0,100.0,0.225,0.0,Intimates,Intimate,Sleep
+232,2,3.0,50.0,-0.1007,2.5,Intimates,Intimate,Sleep
+233,1,3.0,0.0,0.0857,0.0,Intimates,Intimate,Intimates
+234,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Swim
+235,2,1.5,0.0,-0.1736,1.0,Intimates,Intimate,Swim
+236,1,2.0,0.0,0.1205,0.0,Intimates,Intimate,Swim
+237,3,4.67,100.0,0.4242,1.0,Intimates,Intimate,Swim
+238,1,5.0,100.0,0.5792,0.0,Intimates,Intimate,Swim
+239,2,4.5,100.0,0.3667,0.5,Intimates,Intimate,Swim
+240,8,4.62,87.5,0.2094,3.25,Intimates,Intimate,Swim
+241,2,5.0,100.0,0.3248,10.0,Intimates,Intimate,Swim
+242,5,4.6,100.0,0.2384,5.6,Intimates,Intimate,Swim
+243,4,4.75,100.0,0.2855,0.25,Intimates,Intimate,Sleep
+244,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Sleep
+245,2,5.0,100.0,0.3019,2.5,Intimates,Intimate,Layering
+246,1,2.0,0.0,0.1583,1.0,Intimates,Intimate,Swim
+247,1,5.0,100.0,0.3075,2.0,Intimates,Intimate,Intimates
+248,3,4.33,100.0,0.2291,0.0,Intimates,Intimate,Intimates
+249,6,4.67,100.0,0.3543,0.17,General Petite,Intimate,Lounge
+250,2,3.0,50.0,0.4175,7.5,Intimates,Intimate,Sleep
+251,13,4.38,92.31,0.2858,2.46,Intimates,Intimate,Lounge
+252,12,4.75,100.0,0.2576,1.83,Intimates,Intimate,Swim
+253,3,4.0,66.67,0.3379,2.67,Intimates,Intimate,Swim
+254,10,3.8,70.0,0.2492,4.3,Intimates,Intimate,Swim
+255,4,4.0,75.0,0.2867,0.25,Intimates,Intimate,Lounge
+256,5,4.6,100.0,0.1631,1.2,General Petite,Intimate,Lounge
+257,9,4.44,88.89,0.1934,2.33,Intimates,Intimate,Lounge
+258,1,5.0,100.0,0.3,0.0,Intimates,Intimate,Sleep
+259,2,1.5,0.0,0.0672,0.5,Intimates,Intimate,Sleep
+260,15,4.8,100.0,0.2702,1.27,Intimates,Intimate,Lounge
+261,1,5.0,100.0,-0.0072,3.0,Intimates,Intimate,Layering
+262,7,4.0,85.71,0.2867,1.71,General Petite,Intimate,Lounge
+263,1,4.0,100.0,0.1502,0.0,Intimates,Intimate,Layering
+264,1,5.0,100.0,0.2358,0.0,Intimates,Intimate,Legwear
+265,2,3.0,50.0,0.0593,7.0,Intimates,Intimate,Sleep
+266,1,3.0,0.0,0.202,5.0,Intimates,Intimate,Lounge
+267,2,4.0,100.0,0.1056,1.0,Intimates,Intimate,Sleep
+268,2,5.0,100.0,0.2196,6.0,Intimates,Intimate,Sleep
+269,1,1.0,0.0,0.1272,1.0,Intimates,Intimate,Swim
+270,1,5.0,100.0,0.3482,0.0,Intimates,Intimate,Swim
+271,1,3.0,100.0,0.0627,13.0,General,Bottoms,Shorts
+272,1,5.0,100.0,0.1262,2.0,Intimates,Intimate,Swim
+273,1,1.0,0.0,0.0467,10.0,Intimates,Intimate,Sleep
+274,1,4.0,100.0,0.067,1.0,Intimates,Intimate,Lounge
+275,1,5.0,100.0,0.5833,0.0,Intimates,Intimate,Lounge
+276,1,5.0,100.0,0.2978,0.0,Intimates,Intimate,Lounge
+277,1,4.0,100.0,0.3011,0.0,Intimates,Intimate,Swim
+278,12,4.67,100.0,0.2664,0.42,Intimates,Intimate,Lounge
+279,7,4.0,85.71,0.1054,2.43,General Petite,Intimate,Lounge
+280,1,3.0,0.0,0.0075,3.0,Intimates,Intimate,Swim
+281,3,4.0,66.67,0.1693,1.33,Intimates,Intimate,Swim
+282,35,4.4,88.57,0.239,1.97,General,Bottoms,Shorts
+283,4,4.5,100.0,0.2528,2.0,Intimates,Intimate,Lounge
+284,1,1.0,0.0,0.0,0.0,Intimates,Intimate,Intimates
+285,1,1.0,0.0,0.0943,2.0,Intimates,Intimate,Intimates
+286,1,5.0,100.0,0.2765,1.0,Intimates,Intimate,Swim
+287,4,4.25,100.0,0.1046,0.5,Intimates,Intimate,Lounge
+288,1,5.0,100.0,0.4542,1.0,Intimates,Intimate,Intimates
+289,2,4.0,50.0,0.2009,2.0,Intimates,Intimate,Swim
+290,9,4.78,100.0,0.2267,4.22,Intimates,Intimate,Lounge
+291,3,4.67,100.0,0.2401,0.33,Intimates,Intimate,Swim
+292,3,5.0,100.0,0.4525,0.0,Intimates,Intimate,Swim
+293,3,5.0,100.0,0.2827,0.0,Intimates,Intimate,Swim
+294,6,4.5,100.0,0.18,1.83,General Petite,Intimate,Lounge
+295,4,2.5,75.0,0.0976,1.0,Intimates,Intimate,Layering
+296,3,5.0,100.0,0.1837,2.33,Intimates,Intimate,Layering
+297,1,5.0,100.0,0.3739,2.0,Intimates,Intimate,Legwear
+298,6,4.5,83.33,0.2491,4.0,General Petite,Intimate,Lounge
+299,1,5.0,100.0,0.105,3.0,General,Bottoms,Shorts
+300,15,4.6,93.33,0.2714,4.2,Intimates,Intimate,Lounge
+301,4,4.5,75.0,0.1376,2.0,Intimates,Intimate,Swim
+302,4,5.0,100.0,0.2057,0.0,Intimates,Intimate,Swim
+303,1,5.0,100.0,0.3028,1.0,Intimates,Intimate,Lounge
+304,1,5.0,100.0,0.275,0.0,Intimates,Intimate,Lounge
+305,1,2.0,0.0,0.1286,0.0,Intimates,Intimate,Swim
+306,2,3.0,50.0,0.1462,0.0,General Petite,Bottoms,Pants
+307,3,4.0,66.67,0.2614,4.67,Intimates,Intimate,Lounge
+308,1,5.0,100.0,0.2902,3.0,Intimates,Intimate,Lounge
+309,1,5.0,100.0,0.2988,2.0,Intimates,Intimate,Lounge
+310,1,5.0,100.0,0.2694,0.0,Intimates,Intimate,Lounge
+311,1,5.0,100.0,0.28,2.0,Intimates,Intimate,Lounge
+312,1,5.0,100.0,0.62,2.0,Intimates,Intimate,Lounge
+313,1,4.0,100.0,-0.0349,9.0,Intimates,Intimate,Sleep
+314,3,3.67,33.33,0.2761,10.67,Intimates,Intimate,Swim
+315,3,3.33,66.67,0.1972,2.33,Intimates,Intimate,Swim
+316,15,4.27,80.0,0.2169,2.87,General,Bottoms,Shorts
+317,1,5.0,100.0,0.35,1.0,Intimates,Intimate,Swim
+318,2,4.0,50.0,0.2407,0.0,Intimates,Intimate,Swim
+319,1,5.0,100.0,0.1747,0.0,Intimates,Intimate,Swim
+320,2,3.5,50.0,0.4953,1.0,Intimates,Intimate,Sleep
+321,1,5.0,100.0,0.284,5.0,Intimates,Intimate,Swim
+322,2,4.5,100.0,0.2275,2.0,Intimates,Intimate,Swim
+323,1,3.0,100.0,0.2893,3.0,General,Bottoms,Shorts
+324,1,5.0,100.0,0.2766,3.0,General,Bottoms,Shorts
+325,1,5.0,100.0,0.8125,0.0,Intimates,Intimate,Sleep
+326,3,4.33,100.0,0.28,3.67,General,Bottoms,Shorts
+327,3,3.0,33.33,0.1407,8.33,Intimates,Intimate,Swim
+328,1,5.0,100.0,0.5767,0.0,Intimates,Intimate,Lounge
+329,1,5.0,100.0,0.4075,0.0,Intimates,Intimate,Sleep
+330,1,3.0,100.0,0.0179,1.0,Intimates,Intimate,Sleep
+331,3,4.33,66.67,0.21,0.67,Intimates,Intimate,Lounge
+332,10,4.7,90.0,0.2493,1.5,General,Bottoms,Shorts
+333,5,4.2,100.0,0.2582,1.2,General,Bottoms,Shorts
+334,2,4.0,100.0,0.1259,1.5,Intimates,Intimate,Swim
+335,4,5.0,100.0,0.426,2.75,General Petite,Intimate,Lounge
+336,4,5.0,100.0,0.2874,6.5,Intimates,Intimate,Lounge
+337,1,4.0,100.0,0.0,0.0,Intimates,Intimate,Lounge
+338,1,5.0,100.0,0.1569,0.0,Intimates,Intimate,Lounge
+339,1,5.0,100.0,0.1922,2.0,Intimates,Intimate,Lounge
+340,1,5.0,100.0,0.4427,7.0,General Petite,Intimate,Lounge
+341,2,4.5,100.0,0.4892,0.0,General Petite,Bottoms,Pants
+342,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Swim
+343,5,4.6,80.0,0.331,2.0,Intimates,Intimate,Layering
+344,1,4.0,100.0,0.3722,0.0,Intimates,Intimate,Swim
+345,1,4.0,100.0,0.3444,0.0,Intimates,Intimate,Swim
+346,1,4.0,100.0,0.266,1.0,Intimates,Intimate,Swim
+347,1,5.0,100.0,0.475,0.0,Intimates,Intimate,Intimates
+348,1,1.0,0.0,0.25,6.0,Intimates,Intimate,Swim
+349,1,5.0,100.0,0.1616,3.0,Intimates,Intimate,Intimates
+350,7,3.29,57.14,0.2318,3.0,General,Bottoms,Shorts
+351,1,3.0,100.0,0.0,0.0,Intimates,Intimate,Sleep
+352,1,5.0,100.0,0.2812,1.0,Intimates,Intimate,Intimates
+353,1,5.0,100.0,0.2815,0.0,Intimates,Intimate,Intimates
+354,1,4.0,100.0,0.2111,0.0,Intimates,Intimate,Swim
+355,1,5.0,100.0,0.065,2.0,Intimates,Intimate,Swim
+356,1,5.0,100.0,0.375,0.0,General Petite,Intimate,Lounge
+357,7,4.71,100.0,0.2492,2.57,General,Bottoms,Shorts
+358,1,5.0,100.0,0.2156,1.0,Intimates,Intimate,Intimates
+359,1,5.0,100.0,0.0688,1.0,Intimates,Intimate,Layering
+360,4,4.5,100.0,0.2903,3.0,Intimates,Intimate,Lounge
+361,2,4.5,100.0,0.2081,0.0,Intimates,Intimate,Intimates
+362,2,5.0,100.0,0.2848,1.5,Intimates,Intimate,Intimates
+363,3,3.67,66.67,0.368,1.0,Intimates,Intimate,Layering
+364,13,4.08,76.92,0.3491,1.85,General Petite,Intimate,Lounge
+365,2,5.0,100.0,0.248,5.5,Intimates,Intimate,Lounge
+366,1,5.0,100.0,0.5025,3.0,Intimates,Intimate,Lounge
+367,1,5.0,100.0,0.1312,0.0,Intimates,Intimate,Lounge
+368,3,2.33,33.33,0.1477,1.33,Intimates,Intimate,Intimates
+369,1,1.0,0.0,0.3067,1.0,Intimates,Intimate,Intimates
+370,3,5.0,100.0,0.2895,2.0,Intimates,Intimate,Lounge
+371,1,1.0,0.0,-0.0449,1.0,Intimates,Intimate,Lounge
+372,1,5.0,100.0,0.2438,0.0,Intimates,Intimate,Lounge
+373,1,5.0,100.0,0.5174,1.0,Intimates,Intimate,Intimates
+374,5,4.6,100.0,0.2617,2.2,General Petite,Intimate,Lounge
+375,19,4.79,94.74,0.283,3.79,Intimates,Intimate,Lounge
+376,3,4.33,66.67,0.1559,5.0,Intimates,Intimate,Lounge
+377,8,4.38,87.5,0.2734,2.88,Intimates,Intimate,Lounge
+378,7,5.0,100.0,0.4047,3.43,Intimates,Intimate,Swim
+379,1,4.0,100.0,0.0,0.0,Intimates,Intimate,Sleep
+380,7,3.71,57.14,0.1802,3.14,Intimates,Intimate,Swim
+381,9,4.44,88.89,0.2754,3.67,Intimates,Intimate,Swim
+382,13,4.77,92.31,0.2451,1.08,Intimates,Intimate,Swim
+383,5,3.8,60.0,0.2204,1.0,General,Bottoms,Shorts
+384,1,5.0,100.0,0.0627,0.0,Intimates,Intimate,Intimates
+385,2,4.0,50.0,0.2406,0.5,Intimates,Intimate,Intimates
+386,1,5.0,100.0,0.1625,0.0,Intimates,Intimate,Intimates
+387,1,5.0,100.0,0.3821,0.0,Intimates,Intimate,Intimates
+388,1,4.0,100.0,0.2188,0.0,Intimates,Intimate,Intimates
+389,2,2.5,0.0,0.1236,1.5,Intimates,Intimate,Swim
+390,3,4.33,66.67,0.3293,2.33,Intimates,Intimate,Swim
+391,6,3.83,66.67,0.2099,3.33,Intimates,Intimate,Swim
+392,3,5.0,100.0,0.2143,1.33,Intimates,Intimate,Swim
+393,1,5.0,100.0,0.675,0.0,Intimates,Intimate,Swim
+394,6,5.0,100.0,0.2668,1.67,Intimates,Intimate,Swim
+395,9,4.89,100.0,0.2971,2.0,Intimates,Intimate,Swim
+396,3,4.67,100.0,0.2015,0.0,Intimates,Intimate,Swim
+397,2,4.5,100.0,0.2802,0.5,Intimates,Intimate,Lounge
+398,1,4.0,100.0,0.3949,2.0,Intimates,Intimate,Lounge
+399,1,3.0,0.0,0.2067,0.0,Intimates,Intimate,Lounge
+400,2,4.0,50.0,0.0581,6.5,Intimates,Intimate,Swim
+401,1,5.0,100.0,0.1031,1.0,Intimates,Intimate,Swim
+402,2,4.0,100.0,0.4027,7.0,Intimates,Intimate,Swim
+403,2,4.5,100.0,0.3829,1.0,Intimates,Intimate,Swim
+404,3,4.33,100.0,0.0967,4.67,Intimates,Intimate,Swim
+405,1,3.0,100.0,0.0228,2.0,General,Bottoms,Shorts
+406,4,3.75,75.0,0.3148,3.5,Intimates,Intimate,Swim
+407,3,4.0,66.67,0.1508,7.67,Intimates,Intimate,Swim
+408,4,4.25,75.0,0.2858,0.75,Intimates,Intimate,Swim
+409,1,4.0,100.0,0.2729,6.0,General,Bottoms,Shorts
+410,1,3.0,0.0,0.2469,0.0,Intimates,Intimate,Intimates
+411,6,3.67,66.67,0.0065,0.5,Intimates,Intimate,Intimates
+412,1,5.0,100.0,-0.08,6.0,Intimates,Intimate,Intimates
+413,1,3.0,0.0,-0.0957,0.0,Intimates,Intimate,Sleep
+414,1,3.0,0.0,0.1625,3.0,Intimates,Intimate,Sleep
+415,1,4.0,100.0,0.2208,0.0,Intimates,Intimate,Swim
+416,2,4.5,100.0,0.5401,0.5,Intimates,Intimate,Swim
+417,12,4.67,100.0,0.2162,1.25,General,Bottoms,Shorts
+418,2,4.5,100.0,0.2079,0.5,Intimates,Intimate,Sleep
+419,4,5.0,100.0,0.3181,1.5,General Petite,Intimate,Lounge
+420,4,4.25,100.0,0.1146,8.25,Intimates,Intimate,Lounge
+421,1,1.0,0.0,-0.1,0.0,General Petite,Intimate,Lounge
+422,4,4.75,100.0,0.2379,0.5,Intimates,Intimate,Lounge
+423,1,4.0,100.0,0.1794,0.0,Intimates,Intimate,Lounge
+424,2,4.0,100.0,0.1478,0.5,Intimates,Intimate,Lounge
+425,1,4.0,100.0,0.3016,1.0,Intimates,Intimate,Lounge
+426,1,4.0,100.0,0.1479,0.0,Intimates,Intimate,Lounge
+427,1,5.0,100.0,0.3474,2.0,Intimates,Intimate,Lounge
+428,1,4.0,100.0,0.1199,4.0,Intimates,Intimate,Swim
+429,1,3.0,0.0,0.2392,3.0,General,Bottoms,Shorts
+430,1,4.0,100.0,0.1881,1.0,Intimates,Intimate,Intimates
+431,1,4.0,100.0,0.2145,0.0,Intimates,Intimate,Intimates
+432,1,1.0,0.0,0.1897,2.0,Intimates,Intimate,Swim
+433,2,5.0,100.0,0.3281,2.5,General,Bottoms,Shorts
+434,1,3.0,0.0,0.4667,1.0,Intimates,Intimate,Lounge
+435,3,4.67,100.0,0.1229,1.0,General Petite,Intimate,Lounge
+436,1,5.0,100.0,0.0944,2.0,Intimates,Intimate,Lounge
+437,3,4.67,100.0,0.3212,2.33,General Petite,Bottoms,Pants
+438,1,3.0,0.0,-0.195,8.0,General,Bottoms,Shorts
+439,3,4.67,100.0,0.188,9.0,Intimates,Intimate,Layering
+440,4,4.75,100.0,0.1802,4.75,Intimates,Intimate,Lounge
+441,2,5.0,100.0,0.3399,0.0,Intimates,Intimate,Swim
+442,3,4.33,100.0,0.4529,0.33,Intimates,Intimate,Swim
+443,1,4.0,100.0,0.1922,2.0,Intimates,Intimate,Swim
+444,2,4.5,100.0,0.3488,2.0,Intimates,Intimate,Swim
+445,1,4.0,100.0,0.1963,3.0,Intimates,Intimate,Swim
+446,2,4.5,100.0,0.2504,0.0,General,Bottoms,Shorts
+447,2,5.0,100.0,0.107,0.5,General,Bottoms,Shorts
+448,1,5.0,100.0,0.1269,0.0,General,Bottoms,Shorts
+449,1,5.0,100.0,0.43,2.0,General,Bottoms,Shorts
+450,2,2.5,50.0,0.0847,7.0,General,Bottoms,Shorts
+451,4,4.25,75.0,0.1691,8.75,General Petite,Intimate,Lounge
+452,2,5.0,100.0,0.2722,6.0,Intimates,Intimate,Sleep
+453,4,2.75,25.0,0.1948,4.0,General,Bottoms,Shorts
+454,1,5.0,100.0,0.1206,0.0,Intimates,Intimate,Lounge
+455,5,3.0,60.0,-0.0125,3.2,Intimates,Intimate,Lounge
+456,4,4.5,100.0,0.2456,1.5,General,Bottoms,Shorts
+457,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Legwear
+458,1,4.0,100.0,0.0708,5.0,Intimates,Intimate,Sleep
+459,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Swim
+460,15,4.2,80.0,0.3471,0.47,General,Bottoms,Shorts
+461,2,5.0,100.0,0.7339,0.0,Intimates,Intimate,Swim
+462,3,4.67,100.0,0.5605,0.67,Intimates,Intimate,Swim
+463,5,5.0,100.0,0.3355,1.0,Intimates,Intimate,Layering
+464,1,5.0,100.0,0.3008,2.0,Intimates,Intimate,Swim
+465,1,4.0,100.0,0.355,1.0,Intimates,Intimate,Swim
+466,1,4.0,100.0,0.1846,0.0,Intimates,Intimate,Swim
+467,1,5.0,100.0,0.0222,0.0,Intimates,Intimate,Swim
+468,1,5.0,100.0,0.1974,0.0,Intimates,Intimate,Swim
+469,1,5.0,100.0,0.1573,1.0,Intimates,Intimate,Swim
+470,1,5.0,100.0,0.2039,0.0,Intimates,Intimate,Swim
+471,1,5.0,100.0,0.3096,0.0,Intimates,Intimate,Swim
+472,6,5.0,100.0,0.1514,2.17,General Petite,Bottoms,Pants
+473,2,4.5,100.0,0.3725,0.0,General Petite,Bottoms,Pants
+474,1,5.0,100.0,0.3975,0.0,General,Bottoms,Shorts
+475,1,5.0,100.0,0.2804,0.0,Intimates,Intimate,Intimates
+476,1,4.0,100.0,0.1858,4.0,Intimates,Intimate,Layering
+477,1,5.0,100.0,0.1211,2.0,Intimates,Intimate,Sleep
+478,4,4.0,100.0,0.2272,1.25,General,Bottoms,Shorts
+479,10,4.2,100.0,0.2618,1.9,General,Bottoms,Shorts
+480,3,5.0,100.0,0.2097,1.33,General,Bottoms,Shorts
+481,7,3.71,71.43,0.1437,2.14,General Petite,Bottoms,Pants
+482,11,3.27,36.36,0.1243,3.36,Intimates,Intimate,Lounge
+483,1,5.0,100.0,0.45,0.0,Intimates,Intimate,Sleep
+484,1,5.0,100.0,0.525,0.0,Intimates,Intimate,Sleep
+485,1,5.0,100.0,0.4875,0.0,General,Bottoms,Shorts
+486,2,4.0,100.0,0.0738,2.0,Intimates,Intimate,Sleep
+487,1,5.0,100.0,0.1859,2.0,Intimates,Intimate,Legwear
+488,1,4.0,100.0,-0.053,0.0,Intimates,Intimate,Legwear
+489,2,4.5,100.0,0.2511,0.0,General Petite,Bottoms,Pants
+490,2,5.0,100.0,0.1773,5.5,General Petite,Bottoms,Pants
+491,1,5.0,100.0,0.1507,0.0,Intimates,Intimate,Layering
+492,3,5.0,100.0,0.2072,0.33,Unknown,Unknown,Unknown
+493,1,5.0,100.0,0.0645,0.0,Intimates,Intimate,Lounge
+494,2,4.0,50.0,0.2999,2.5,General,Bottoms,Shorts
+495,2,2.5,50.0,0.2827,5.0,General,Bottoms,Shorts
+496,1,5.0,100.0,0.1875,0.0,General,Bottoms,Shorts
+497,1,4.0,100.0,0.5625,2.0,Intimates,Intimate,Lounge
+498,6,4.17,83.33,0.1597,2.0,General Petite,Intimate,Lounge
+499,1,5.0,100.0,0.2354,1.0,Intimates,Intimate,Layering
+500,1,4.0,100.0,0.2286,3.0,Intimates,Intimate,Swim
+501,4,5.0,100.0,0.5034,0.75,Intimates,Intimate,Sleep
+502,2,4.5,100.0,0.1486,3.5,Intimates,Intimate,Swim
+503,1,5.0,100.0,0.4732,1.0,Intimates,Intimate,Intimates
+504,5,5.0,100.0,0.3804,0.4,Intimates,Intimate,Sleep
+505,4,4.5,100.0,0.3248,0.5,Intimates,Intimate,Sleep
+506,5,5.0,100.0,0.3938,0.2,Intimates,Intimate,Sleep
+507,1,5.0,100.0,0.0125,3.0,Intimates,Intimate,Sleep
+508,3,5.0,100.0,0.2611,2.33,Intimates,Intimate,Sleep
+509,5,3.8,60.0,0.1618,1.8,Intimates,Intimate,Sleep
+510,3,4.67,100.0,0.279,4.33,General Petite,Intimate,Lounge
+511,3,4.33,100.0,0.1743,2.33,Intimates,Intimate,Sleep
+512,1,5.0,100.0,0.25,2.0,Intimates,Intimate,Sleep
+513,2,5.0,100.0,0.3216,1.0,Intimates,Intimate,Swim
+514,8,2.88,37.5,0.0781,5.62,Intimates,Intimate,Swim
+515,1,5.0,100.0,0.655,0.0,Intimates,Intimate,Swim
+516,2,4.0,100.0,0.2793,5.5,Intimates,Intimate,Swim
+517,1,5.0,100.0,0.0699,0.0,Intimates,Intimate,Lounge
+518,2,4.5,100.0,0.6688,0.5,Intimates,Intimate,Lounge
+519,1,5.0,100.0,-0.033,0.0,Intimates,Intimate,Lounge
+520,30,4.4,96.67,0.2047,1.17,Intimates,Intimate,Layering
+521,1,2.0,0.0,0.2984,2.0,Intimates,Intimate,Swim
+522,1,4.0,100.0,0.6562,0.0,Intimates,Intimate,Swim
+523,1,3.0,0.0,-0.0571,2.0,Intimates,Intimate,Swim
+524,2,4.0,100.0,0.2428,2.5,Intimates,Intimate,Swim
+525,1,5.0,100.0,0.3627,0.0,Intimates,Intimate,Swim
+526,1,4.0,100.0,0.4125,0.0,General,Bottoms,Shorts
+527,1,4.0,100.0,0.3228,1.0,Intimates,Intimate,Swim
+528,8,4.25,87.5,0.2335,0.75,General,Bottoms,Shorts
+529,3,5.0,100.0,0.1508,3.33,General,Bottoms,Shorts
+530,2,3.5,50.0,0.2692,0.0,General,Bottoms,Shorts
+531,2,5.0,100.0,0.4417,0.0,Intimates,Intimate,Lounge
+532,2,4.5,100.0,0.2168,2.0,Intimates,Intimate,Lounge
+533,2,5.0,100.0,0.345,2.5,General,Bottoms,Shorts
+534,2,4.5,100.0,0.11,1.5,Intimates,Intimate,Swim
+535,3,3.33,100.0,0.033,7.67,Intimates,Intimate,Swim
+536,2,3.5,100.0,0.3512,2.5,Intimates,Intimate,Swim
+537,2,4.5,100.0,0.1994,1.5,General,Bottoms,Shorts
+538,1,5.0,100.0,0.2453,1.0,Intimates,Intimate,Layering
+539,3,5.0,100.0,0.342,2.0,General Petite,Intimate,Lounge
+540,1,4.0,100.0,0.1006,0.0,General,Bottoms,Shorts
+541,1,5.0,100.0,0.2818,2.0,General,Bottoms,Shorts
+542,3,4.33,100.0,0.102,1.0,General,Bottoms,Shorts
+543,2,5.0,100.0,0.2143,0.5,General,Bottoms,Shorts
+544,1,4.0,100.0,0.0,0.0,Intimates,Intimate,Swim
+545,1,5.0,100.0,0.3793,3.0,Intimates,Intimate,Layering
+546,1,4.0,100.0,0.2734,0.0,General,Bottoms,Shorts
+547,3,5.0,100.0,0.2188,4.67,Intimates,Intimate,Layering
+548,1,5.0,100.0,-0.15,0.0,General,Trend,Trend
+549,2,3.5,50.0,0.2699,0.0,Intimates,Intimate,Layering
+550,2,3.5,50.0,0.0158,0.5,General,Trend,Trend
+551,2,5.0,100.0,0.2242,1.5,General,Trend,Trend
+552,4,3.5,50.0,0.0502,6.0,General,Trend,Trend
+553,1,5.0,100.0,0.1456,4.0,Intimates,Intimate,Sleep
+554,1,5.0,100.0,0.1188,0.0,Intimates,Intimate,Sleep
+555,2,4.0,100.0,0.0392,9.0,General,Trend,Trend
+556,1,4.0,100.0,0.2214,1.0,Intimates,Intimate,Swim
+557,1,5.0,100.0,0.3665,3.0,Intimates,Intimate,Layering
+558,4,4.75,100.0,0.2648,0.25,Intimates,Intimate,Layering
+559,1,2.0,0.0,-0.0625,14.0,General,Trend,Trend
+560,1,5.0,100.0,0.2964,3.0,General,Trend,Trend
+561,1,3.0,100.0,0.0842,0.0,General Petite,Trend,Trend
+562,3,3.33,66.67,0.0171,5.33,General,Trend,Trend
+563,2,5.0,100.0,0.2065,4.0,General,Trend,Trend
+564,1,5.0,100.0,0.4333,4.0,General,Trend,Trend
+565,1,5.0,100.0,0.2222,3.0,General Petite,Trend,Trend
+566,1,5.0,100.0,0.2841,4.0,General,Trend,Trend
+567,3,2.0,0.0,0.1749,1.0,General,Trend,Trend
+568,1,5.0,100.0,0.5441,3.0,General,Trend,Trend
+569,5,1.8,20.0,0.0691,6.4,General,Trend,Trend
+570,1,3.0,100.0,0.3375,4.0,General,Trend,Trend
+571,2,4.5,100.0,0.4266,2.5,General,Trend,Trend
+572,2,1.5,0.0,0.0137,7.0,General,Trend,Trend
+573,10,4.2,70.0,0.1944,9.2,General Petite,Trend,Trend
+574,3,3.0,66.67,0.0555,1.0,Intimates,Intimate,Layering
+575,1,5.0,100.0,0.0833,3.0,General,Trend,Trend
+576,7,3.57,71.43,0.2891,0.29,General,Bottoms,Shorts
+577,5,3.0,40.0,0.1575,2.4,General,Bottoms,Shorts
+578,1,4.0,100.0,0.0984,0.0,Intimates,Intimate,Layering
+579,4,5.0,100.0,0.3088,3.0,General,Bottoms,Shorts
+580,1,5.0,100.0,0.4625,1.0,Intimates,Intimate,Lounge
+581,1,5.0,100.0,0.131,3.0,Intimates,Intimate,Lounge
+582,2,4.0,100.0,0.3963,0.0,General,Bottoms,Shorts
+583,5,4.8,100.0,0.2383,5.2,Intimates,Intimate,Lounge
+584,2,4.5,100.0,0.2476,0.5,Intimates,Intimate,Swim
+585,1,4.0,100.0,0.1737,0.0,Intimates,Intimate,Layering
+586,3,3.33,66.67,0.1662,1.33,General,Bottoms,Shorts
+587,1,4.0,100.0,-0.0935,0.0,General,Bottoms,Shorts
+588,4,2.0,25.0,0.1165,0.0,General,Bottoms,Shorts
+589,1,5.0,100.0,0.1555,8.0,General Petite,Bottoms,Pants
+590,1,5.0,100.0,0.2703,4.0,General Petite,Bottoms,Pants
+591,1,5.0,100.0,0.5473,0.0,Intimates,Intimate,Layering
+592,4,4.5,100.0,0.2342,0.5,General,Bottoms,Shorts
+593,2,4.0,50.0,0.2426,3.0,General,Trend,Trend
+594,1,5.0,100.0,0.125,1.0,Intimates,Intimate,Lounge
+595,3,5.0,100.0,0.2782,0.67,Intimates,Intimate,Lounge
+596,1,5.0,100.0,0.5625,2.0,General,Trend,Trend
+597,1,5.0,100.0,0.375,1.0,General,Trend,Trend
+598,2,3.0,50.0,0.1225,3.5,Intimates,Intimate,Swim
+599,1,5.0,100.0,0.5525,0.0,Intimates,Intimate,Swim
+600,1,4.0,100.0,0.3272,0.0,Intimates,Intimate,Swim
+601,1,5.0,100.0,0.2069,0.0,Intimates,Intimate,Swim
+602,9,4.33,88.89,0.2215,2.11,General,Bottoms,Shorts
+603,1,3.0,100.0,0.1163,0.0,General,Bottoms,Shorts
+604,3,4.67,100.0,0.3422,2.0,General,Bottoms,Shorts
+605,2,5.0,100.0,0.4213,3.0,General,Bottoms,Shorts
+606,3,4.33,66.67,0.2361,2.33,General,Bottoms,Shorts
+607,4,4.0,50.0,0.1994,0.75,General,Bottoms,Shorts
+608,1,5.0,100.0,0.3725,3.0,Intimates,Intimate,Layering
+609,2,4.5,100.0,0.2905,1.0,Intimates,Intimate,Layering
+610,1,3.0,0.0,0.1933,9.0,Intimates,Intimate,Swim
+611,9,4.78,100.0,0.2878,0.89,General Petite,Bottoms,Pants
+612,1,5.0,100.0,0.2125,4.0,General,Bottoms,Shorts
+613,1,5.0,100.0,0.8688,0.0,Intimates,Intimate,Swim
+614,3,4.33,66.67,0.2469,1.67,General,Bottoms,Shorts
+615,1,4.0,100.0,0.0677,4.0,General Petite,Bottoms,Pants
+616,5,4.2,80.0,0.2381,5.2,Intimates,Intimate,Lounge
+617,4,5.0,100.0,0.2947,2.5,Intimates,Intimate,Swim
+618,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Swim
+619,7,3.71,57.14,0.1536,3.43,General,Bottoms,Shorts
+620,2,4.5,100.0,0.2143,1.5,General,Bottoms,Shorts
+621,13,4.69,92.31,0.2667,3.69,General Petite,Intimate,Lounge
+622,11,4.09,90.91,0.1178,1.64,Intimates,Intimate,Lounge
+623,5,4.2,80.0,0.286,1.4,Intimates,Intimate,Lounge
+624,2,4.5,100.0,0.3,0.0,Intimates,Intimate,Lounge
+625,2,3.0,50.0,0.2994,0.0,Intimates,Intimate,Swim
+626,3,3.0,33.33,0.1094,3.0,General Petite,Bottoms,Pants
+627,1,4.0,100.0,0.0297,1.0,Intimates,Intimate,Swim
+628,1,5.0,100.0,0.134,2.0,Intimates,Intimate,Lounge
+629,1,3.0,100.0,0.142,3.0,General,Bottoms,Shorts
+630,3,5.0,100.0,0.3196,0.67,General,Bottoms,Shorts
+631,2,4.5,100.0,0.3778,0.0,General Petite,Intimate,Lounge
+632,2,5.0,100.0,0.2411,4.0,Intimates,Intimate,Lounge
+633,1,4.0,100.0,0.09,1.0,General,Bottoms,Shorts
+634,13,4.15,92.31,0.2156,6.69,General Petite,Intimate,Lounge
+635,5,2.0,0.0,0.1477,1.4,General Petite,Intimate,Lounge
+636,7,3.29,57.14,0.124,2.29,General Petite,Intimate,Lounge
+637,1,4.0,100.0,-0.05,0.0,Intimates,Intimate,Legwear
+638,1,5.0,100.0,0.2208,0.0,Intimates,Intimate,Legwear
+639,1,5.0,100.0,0.3939,7.0,General Petite,Intimate,Lounge
+640,2,2.5,50.0,0.0969,6.5,General Petite,Intimate,Lounge
+641,10,3.7,80.0,0.1177,3.6,General Petite,Intimate,Lounge
+642,5,5.0,100.0,0.269,2.6,Intimates,Intimate,Lounge
+643,2,3.5,50.0,0.3795,0.5,General,Trend,Trend
+644,3,3.0,66.67,0.0906,0.0,Intimates,Intimate,Intimates
+645,3,5.0,100.0,0.4865,2.0,Intimates,Intimate,Intimates
+646,1,5.0,100.0,0.5643,0.0,Intimates,Intimate,Lounge
+647,4,4.0,75.0,0.1847,2.5,General Petite,Intimate,Lounge
+648,1,5.0,100.0,0.602,3.0,Intimates,Intimate,Lounge
+649,2,5.0,100.0,0.383,2.5,General Petite,Intimate,Lounge
+650,2,5.0,100.0,0.425,0.0,Intimates,Intimate,Lounge
+651,1,3.0,100.0,0.0585,0.0,Intimates,Intimate,Intimates
+652,3,3.33,66.67,-0.0137,3.0,Intimates,Intimate,Lounge
+653,1,2.0,0.0,0.018,1.0,Intimates,Intimate,Lounge
+654,1,4.0,100.0,0.04,2.0,Intimates,Intimate,Swim
+655,1,4.0,100.0,0.2642,0.0,Intimates,Intimate,Swim
+656,2,4.0,100.0,0.2586,0.5,Intimates,Intimate,Lounge
+657,1,4.0,100.0,0.2156,1.0,Intimates,Intimate,Lounge
+658,1,5.0,100.0,0.2,0.0,Intimates,Intimate,Lounge
+659,1,5.0,100.0,0.328,0.0,Intimates,Intimate,Swim
+660,1,5.0,100.0,0.15,0.0,Intimates,Intimate,Swim
+661,4,3.75,75.0,0.3149,3.75,General Petite,Intimate,Lounge
+662,7,4.57,85.71,0.3113,3.57,Intimates,Intimate,Lounge
+663,16,4.38,93.75,0.3682,2.81,Intimates,Intimate,Lounge
+664,2,4.5,100.0,0.3973,2.0,Intimates,Intimate,Sleep
+665,1,5.0,100.0,0.144,0.0,Unknown,Unknown,Unknown
+666,3,5.0,100.0,0.343,0.0,Intimates,Intimate,Sleep
+667,6,4.83,100.0,0.137,0.17,General Petite,Intimate,Lounge
+668,1,5.0,100.0,0.6494,8.0,Intimates,Intimate,Sleep
+669,1,1.0,0.0,0.0074,6.0,General Petite,Intimate,Lounge
+670,2,4.5,100.0,0.249,0.0,Intimates,Intimate,Sleep
+671,1,5.0,100.0,0.25,0.0,Intimates,Intimate,Sleep
+672,1,5.0,100.0,0.595,0.0,Intimates,Intimate,Sleep
+673,1,3.0,0.0,-0.15,1.0,General Petite,Intimate,Lounge
+674,15,4.73,100.0,0.3053,2.0,General Petite,Intimate,Lounge
+675,1,5.0,100.0,0.421,2.0,Intimates,Intimate,Lounge
+676,6,4.17,100.0,0.2011,1.17,General,Bottoms,Shorts
+677,2,4.0,50.0,0.1467,1.5,Intimates,Intimate,Lounge
+678,6,4.83,100.0,0.3073,2.67,Intimates,Intimate,Sleep
+679,1,4.0,100.0,0.475,0.0,Intimates,Intimate,Swim
+680,1,5.0,100.0,0.625,2.0,General,Bottoms,Shorts
+681,1,4.0,100.0,0.081,1.0,Intimates,Intimate,Lounge
+682,1,4.0,100.0,0.0194,3.0,Intimates,Intimate,Lounge
+683,1,5.0,100.0,0.3613,0.0,Intimates,Intimate,Lounge
+684,2,5.0,100.0,0.1307,2.0,Intimates,Intimate,Lounge
+685,1,5.0,100.0,0.3399,0.0,Intimates,Intimate,Sleep
+686,1,5.0,100.0,0.2952,0.0,Intimates,Intimate,Sleep
+687,2,4.5,100.0,0.2388,0.5,Intimates,Intimate,Intimates
+688,4,4.0,100.0,0.1116,0.0,Intimates,Intimate,Lounge
+689,1,5.0,100.0,0.175,0.0,Intimates,Intimate,Lounge
+690,1,5.0,100.0,0.3254,2.0,Intimates,Intimate,Swim
+691,1,4.0,100.0,0.2625,0.0,Intimates,Intimate,Lounge
+692,1,5.0,100.0,0.7099,1.0,Intimates,Intimate,Sleep
+693,3,3.33,33.33,0.3279,0.67,General Petite,Intimate,Lounge
+694,1,4.0,100.0,0.4881,5.0,Intimates,Intimate,Intimates
+695,2,4.5,100.0,0.2633,2.0,Intimates,Intimate,Intimates
+696,2,4.5,100.0,0.1702,1.5,Intimates,Intimate,Lounge
+697,2,4.0,50.0,0.2862,0.0,Intimates,Intimate,Lounge
+698,1,5.0,100.0,0.4924,2.0,Intimates,Intimate,Lounge
+699,1,5.0,100.0,0.0704,2.0,Intimates,Intimate,Legwear
+700,1,5.0,100.0,0.468,1.0,Intimates,Intimate,Intimates
+701,1,3.0,100.0,0.65,5.0,Intimates,Intimate,Swim
+702,1,3.0,0.0,0.1333,3.0,General,Bottoms,Shorts
+703,1,5.0,100.0,0.1922,5.0,General Petite,Bottoms,Pants
+704,1,5.0,100.0,0.2275,1.0,Intimates,Intimate,Intimates
+705,4,4.75,100.0,0.2829,2.25,General,Bottoms,Shorts
+706,4,3.5,75.0,0.1032,0.5,Intimates,Intimate,Lounge
+707,1,5.0,100.0,0.1928,0.0,Intimates,Intimate,Lounge
+708,1,5.0,100.0,0.55,0.0,Intimates,Intimate,Lounge
+709,2,5.0,100.0,0.2911,0.0,Intimates,Intimate,Lounge
+710,2,4.5,100.0,0.29,2.0,Intimates,Intimate,Lounge
+711,1,5.0,100.0,0.1504,1.0,Intimates,Intimate,Lounge
+712,1,4.0,100.0,0.2583,0.0,Intimates,Intimate,Lounge
+713,5,4.4,100.0,0.093,2.4,Intimates,Intimate,Lounge
+714,1,5.0,100.0,0.2079,2.0,Intimates,Intimate,Intimates
+715,8,4.88,100.0,0.2833,0.38,Intimates,Intimate,Lounge
+716,1,5.0,100.0,0.3561,0.0,Intimates,Intimate,Legwear
+717,7,4.43,85.71,0.3563,0.43,General,Bottoms,Shorts
+718,1,3.0,100.0,0.2,0.0,Intimates,Intimate,Lounge
+719,13,4.15,84.62,0.2683,3.77,Intimates,Intimate,Lounge
+720,5,4.8,100.0,0.3515,2.4,Intimates,Intimate,Lounge
+721,2,5.0,100.0,0.2729,3.0,General Petite,Intimate,Lounge
+722,1,5.0,100.0,0.24,0.0,Intimates,Intimate,Sleep
+723,1,3.0,100.0,0.1,16.0,Intimates,Intimate,Lounge
+724,1,4.0,100.0,0.3118,1.0,Intimates,Intimate,Intimates
+725,1,3.0,0.0,0.1832,0.0,Intimates,Intimate,Lounge
+726,2,5.0,100.0,0.5003,0.5,Intimates,Intimate,Lounge
+727,1,3.0,0.0,-0.1173,1.0,Intimates,Intimate,Lounge
+728,1,5.0,100.0,0.15,0.0,Intimates,Intimate,Legwear
+729,2,5.0,100.0,0.4894,2.0,Intimates,Intimate,Swim
+730,1,3.0,0.0,0.0524,1.0,Intimates,Intimate,Swim
+731,2,4.5,100.0,0.1387,0.5,Intimates,Intimate,Lounge
+732,1,4.0,100.0,0.7344,0.0,Intimates,Intimate,Legwear
+733,4,4.75,100.0,0.2935,1.5,General Petite,Intimate,Lounge
+734,1,3.0,0.0,0.0025,0.0,General Petite,Intimate,Lounge
+735,1,3.0,0.0,-0.575,12.0,General Petite,Intimate,Lounge
+736,2,4.0,100.0,0.1962,0.0,Intimates,Intimate,Intimates
+737,2,3.5,100.0,0.1551,0.0,Intimates,Intimate,Intimates
+738,1,5.0,100.0,0.1847,4.0,Intimates,Intimate,Swim
+739,3,4.33,100.0,0.2218,4.0,Intimates,Intimate,Lounge
+740,1,4.0,100.0,0.1712,6.0,Intimates,Intimate,Swim
+741,3,4.0,66.67,0.3683,2.0,Intimates,Intimate,Swim
+742,2,4.0,100.0,0.2437,2.0,Intimates,Intimate,Lounge
+743,1,2.0,0.0,0.1339,3.0,Intimates,Intimate,Intimates
+744,1,5.0,100.0,0.3571,0.0,Intimates,Intimate,Intimates
+745,5,4.8,100.0,0.2577,0.8,Intimates,Intimate,Legwear
+746,1,3.0,100.0,0.0896,0.0,Intimates,Intimate,Intimates
+747,1,5.0,100.0,0.2885,1.0,Intimates,Intimate,Intimates
+748,1,5.0,100.0,0.301,1.0,Intimates,Intimate,Intimates
+749,3,4.33,66.67,0.2146,0.0,General,Bottoms,Shorts
+750,1,5.0,100.0,0.16,1.0,Intimates,Intimate,Swim
+751,1,3.0,0.0,0.0386,0.0,Intimates,Intimate,Lounge
+752,2,4.5,100.0,0.15,0.0,Intimates,Intimate,Sleep
+753,2,5.0,100.0,0.2745,3.5,Intimates,Intimate,Lounge
+754,1,5.0,100.0,0.1627,0.0,Intimates,Intimate,Intimates
+755,2,5.0,100.0,0.3329,0.0,Intimates,Intimate,Lounge
+756,1,4.0,100.0,0.4111,1.0,General Petite,Intimate,Lounge
+757,4,3.75,75.0,0.3197,1.25,Intimates,Intimate,Intimates
+758,1,1.0,0.0,-0.0167,0.0,Intimates,Intimate,Intimates
+759,1,1.0,0.0,0.1667,0.0,Intimates,Intimate,Lounge
+760,2,5.0,100.0,0.5476,0.0,Intimates,Intimate,Intimates
+761,3,4.67,100.0,0.259,1.33,Intimates,Intimate,Lounge
+762,1,5.0,100.0,0.3029,3.0,General Petite,Intimate,Lounge
+763,2,5.0,100.0,0.1189,0.5,Intimates,Intimate,Lounge
+764,1,3.0,0.0,-0.113,0.0,Intimates,Intimate,Lounge
+765,1,3.0,0.0,0.16,1.0,Intimates,Intimate,Lounge
+766,1,3.0,0.0,-0.16,0.0,Intimates,Intimate,Lounge
+767,2,4.5,100.0,0.4127,0.0,Intimates,Intimate,Intimates
+768,2,3.0,50.0,0.1667,3.5,Intimates,Intimate,Lounge
+769,1,4.0,100.0,0.125,2.0,Intimates,Intimate,Lounge
+770,2,5.0,100.0,0.4348,2.5,Intimates,Intimate,Lounge
+771,1,4.0,100.0,0.2325,0.0,General Petite,Bottoms,Pants
+772,1,5.0,100.0,0.49,0.0,Unknown,Unknown,Unknown
+773,1,5.0,100.0,0.2643,0.0,Intimates,Intimate,Intimates
+774,18,3.61,72.22,0.1867,3.06,Intimates,Intimate,Lounge
+775,1,3.0,100.0,0.2157,0.0,Intimates,Intimate,Sleep
+776,1,5.0,0.0,0.7333,0.0,Intimates,Intimate,Legwear
+777,5,3.8,60.0,0.2245,0.6,Intimates,Intimate,Lounge
+778,1,5.0,100.0,0.3225,0.0,Intimates,Intimate,Lounge
+779,1,5.0,100.0,0.3074,0.0,Intimates,Intimate,Lounge
+780,3,4.33,100.0,0.1711,1.0,Intimates,Intimate,Lounge
+781,1,5.0,100.0,0.1226,1.0,Intimates,Intimate,Lounge
+782,3,3.67,66.67,0.307,2.0,Intimates,Intimate,Lounge
+783,1,5.0,100.0,0.1665,0.0,Intimates,Intimate,Sleep
+784,1,5.0,100.0,0.5,1.0,Intimates,Intimate,Legwear
+785,1,2.0,100.0,0.2409,0.0,Intimates,Intimate,Sleep
+786,1,4.0,100.0,0.0,0.0,Intimates,Intimate,Sleep
+787,1,5.0,100.0,0.4433,0.0,Intimates,Intimate,Sleep
+788,1,5.0,100.0,0.3278,9.0,Intimates,Intimate,Lounge
+789,1,5.0,100.0,0.4014,5.0,Intimates,Intimate,Lounge
+790,1,5.0,100.0,0.0769,5.0,Intimates,Intimate,Lounge
+791,1,5.0,100.0,0.4228,4.0,Intimates,Intimate,Lounge
+792,1,5.0,100.0,0.0381,0.0,Intimates,Intimate,Sleep
+793,1,4.0,100.0,0.122,0.0,Intimates,Intimate,Sleep
+794,2,4.5,100.0,0.3156,0.5,Intimates,Intimate,Lounge
+795,1,5.0,100.0,0.4833,0.0,Intimates,Intimate,Lounge
+796,1,4.0,100.0,-0.0042,2.0,Intimates,Intimate,Lounge
+797,1,3.0,0.0,0.1553,2.0,Intimates,Intimate,Lounge
+798,1,5.0,100.0,0.2369,0.0,Intimates,Intimate,Intimates
+799,1,5.0,100.0,0.133,8.0,Intimates,Intimate,Intimates
+800,2,4.0,100.0,0.2845,0.5,Intimates,Intimate,Intimates
+801,2,3.5,100.0,0.1253,0.0,Intimates,Intimate,Lounge
+802,2,3.5,100.0,0.1146,1.0,Intimates,Intimate,Lounge
+803,2,4.0,100.0,0.1549,1.5,Intimates,Intimate,Lounge
+804,2,4.5,100.0,0.0797,0.5,Intimates,Intimate,Lounge
+805,2,3.5,50.0,0.1135,2.5,Intimates,Intimate,Lounge
+806,2,2.5,0.0,0.2527,0.0,General Petite,Intimate,Lounge
+807,3,5.0,100.0,0.3195,0.67,Intimates,Intimate,Intimates
+808,1,5.0,100.0,0.5206,1.0,Intimates,Intimate,Lounge
+809,2,4.5,100.0,0.1606,1.0,Intimates,Intimate,Lounge
+810,1,5.0,100.0,0.45,2.0,Intimates,Intimate,Lounge
+811,2,5.0,100.0,0.238,0.0,Intimates,Intimate,Lounge
+812,1,1.0,0.0,0.0112,0.0,Intimates,Intimate,Lounge
+813,1,4.0,100.0,0.1429,0.0,Intimates,Intimate,Sleep
+814,1,1.0,0.0,0.098,0.0,Intimates,Intimate,Sleep
+815,53,4.23,83.02,0.2524,2.58,General Petite,Tops,Blouses
+816,8,4.25,62.5,0.2936,0.88,General,Tops,Blouses
+817,21,3.76,66.67,0.2406,2.05,General,Tops,Blouses
+818,53,3.74,64.15,0.2513,2.81,General Petite,Tops,Blouses
+819,61,3.95,75.41,0.2206,3.52,General,Tops,Blouses
+820,211,4.24,84.36,0.2565,2.59,General,Tops,Blouses
+821,5,4.2,80.0,0.2369,0.0,General,Tops,Blouses
+822,36,4.11,75.0,0.2417,2.14,General,Tops,Blouses
+823,105,3.98,77.14,0.2509,2.74,General,Tops,Blouses
+824,96,4.19,79.17,0.212,2.25,General,Tops,Blouses
+825,93,4.1,79.57,0.2235,1.57,General,Tops,Blouses
+826,31,4.13,74.19,0.2755,2.68,General Petite,Tops,Blouses
+827,8,3.5,50.0,0.2341,1.12,General,Tops,Blouses
+828,224,4.29,83.93,0.2396,3.18,General,Tops,Blouses
+829,526,4.19,82.7,0.2441,2.53,General,Tops,Blouses
+830,112,4.02,81.25,0.2126,2.2,General Petite,Tops,Blouses
+831,164,4.27,83.54,0.2563,2.13,General,Tops,Blouses
+832,20,3.95,70.0,0.2377,3.55,General,Tops,Blouses
+833,157,4.07,78.34,0.2535,2.95,General,Tops,Blouses
+834,149,4.54,93.29,0.2602,2.75,General,Tops,Blouses
+835,141,4.11,81.56,0.2693,3.24,General,Tops,Blouses
+836,205,4.08,79.02,0.2338,3.66,General,Tops,Blouses
+837,8,3.5,62.5,0.1959,1.25,General,Tops,Blouses
+838,37,3.59,64.86,0.2488,3.7,General,Tops,Blouses
+839,48,4.56,95.83,0.2841,2.81,General,Tops,Blouses
+840,59,3.83,69.49,0.2081,2.68,General,Tops,Blouses
+841,25,3.52,60.0,0.2231,4.0,General Petite,Tops,Blouses
+842,10,3.8,60.0,0.2346,2.2,General,Tops,Blouses
+843,11,3.64,72.73,0.2648,3.45,General,Tops,Blouses
+844,50,3.66,62.0,0.2142,2.38,General Petite,Tops,Blouses
+845,6,3.5,66.67,0.2382,5.67,General Petite,Tops,Blouses
+846,2,5.0,100.0,0.345,2.0,General Petite,Tops,Blouses
+847,4,4.0,75.0,0.263,2.0,General,Tops,Blouses
+848,3,4.33,100.0,0.1425,1.0,General,Tops,Blouses
+849,1,4.0,100.0,0.1692,1.0,General Petite,Tops,Blouses
+850,337,4.31,86.94,0.252,2.79,General,Tops,Blouses
+851,3,4.67,100.0,0.3064,0.33,General Petite,Tops,Blouses
+852,1,3.0,0.0,0.0,0.0,General,Tops,Blouses
+853,6,3.67,66.67,0.1462,3.17,General,Tops,Blouses
+854,152,4.21,83.55,0.2377,2.18,General Petite,Tops,Knits
+855,26,3.96,73.08,0.2381,2.19,General Petite,Tops,Knits
+856,1,4.0,100.0,0.2127,0.0,General,Tops,Knits
+857,71,4.11,77.46,0.236,2.85,General Petite,Tops,Knits
+858,21,3.9,61.9,0.2095,2.05,General Petite,Tops,Knits
+859,18,4.5,94.44,0.2814,2.39,General,Tops,Knits
+860,288,4.09,80.21,0.243,2.17,General Petite,Tops,Knits
+861,243,4.15,83.95,0.194,2.38,General Petite,Tops,Knits
+862,802,4.2,81.92,0.246,2.42,General,Tops,Knits
+863,306,4.31,84.97,0.2568,2.19,General Petite,Tops,Knits
+864,145,4.15,82.76,0.2364,4.15,General,Tops,Knits
+865,134,4.01,79.1,0.2652,1.51,General,Tops,Knits
+866,121,3.82,72.73,0.2266,2.45,General Petite,Tops,Knits
+867,350,4.11,81.14,0.2342,2.3,General,Tops,Knits
+868,429,3.94,75.52,0.239,2.66,General Petite,Tops,Knits
+869,50,4.5,94.0,0.2682,2.22,General,Tops,Knits
+870,53,3.66,66.04,0.163,1.68,General,Tops,Knits
+871,54,3.96,77.78,0.2082,3.52,General Petite,Tops,Knits
+872,544,4.38,87.68,0.2619,2.15,General,Tops,Knits
+873,238,4.34,87.39,0.2399,1.97,General,Tops,Knits
+874,3,4.33,100.0,0.3591,3.67,General,Tops,Knits
+875,115,4.22,80.87,0.248,2.57,General,Tops,Knits
+876,88,4.19,81.82,0.256,1.76,General Petite,Tops,Knits
+877,154,4.21,83.77,0.2397,2.63,General,Tops,Knits
+878,47,3.96,78.72,0.1895,2.85,General,Tops,Knits
+879,54,3.96,75.93,0.2206,1.89,General,Tops,Knits
+880,41,4.02,75.61,0.2455,2.63,General,Tops,Knits
+881,68,3.91,75.0,0.2327,3.29,General,Tops,Knits
+882,9,4.33,88.89,0.2279,2.56,General,Tops,Knits
+883,70,3.93,74.29,0.2131,2.96,General,Tops,Knits
+884,11,3.18,63.64,0.2464,4.18,General Petite,Tops,Knits
+885,2,3.0,0.0,0.2097,0.0,General,Tops,Knits
+886,106,4.44,88.68,0.2313,2.78,General,Tops,Knits
+887,1,3.0,100.0,0.1858,0.0,General,Tops,Knits
+888,4,4.0,75.0,0.1648,2.0,General,Tops,Knits
+889,2,3.0,50.0,0.0969,5.0,General,Tops,Fine gauge
+890,8,4.38,87.5,0.2245,0.75,General,Tops,Fine gauge
+891,5,4.4,100.0,0.2812,0.2,General,Tops,Fine gauge
+892,2,5.0,100.0,0.3271,0.0,General,Tops,Fine gauge
+893,5,4.2,80.0,0.256,2.4,General,Tops,Fine gauge
+894,1,3.0,0.0,0.1964,1.0,General,Tops,Fine gauge
+895,403,4.3,84.37,0.2346,1.99,General,Tops,Fine gauge
+896,23,4.43,91.3,0.2959,1.83,General,Tops,Fine gauge
+897,11,3.91,90.91,0.2038,0.27,General,Tops,Fine gauge
+898,28,4.18,82.14,0.2093,1.11,General,Tops,Fine gauge
+899,33,4.24,78.79,0.2691,1.27,General Petite,Tops,Fine gauge
+900,15,3.93,80.0,0.1927,1.13,General,Tops,Fine gauge
+901,10,4.7,100.0,0.2977,1.8,General,Tops,Fine gauge
+902,18,3.72,66.67,0.1884,2.39,General,Tops,Fine gauge
+903,91,4.16,80.22,0.2593,3.07,General,Tops,Fine gauge
+904,10,3.7,60.0,0.2712,2.3,General,Tops,Fine gauge
+905,15,4.4,86.67,0.2772,3.53,General,Tops,Fine gauge
+906,37,4.73,94.59,0.2138,0.51,General Petite,Tops,Fine gauge
+907,130,4.41,86.92,0.2405,1.45,General,Tops,Fine gauge
+908,4,4.0,100.0,0.2285,1.0,General Petite,Tops,Fine gauge
+909,122,4.1,81.15,0.2419,2.57,General,Tops,Fine gauge
+910,4,4.25,75.0,0.3122,2.75,General,Tops,Fine gauge
+911,4,3.25,75.0,0.2455,0.25,General,Tops,Fine gauge
+912,40,3.9,72.5,0.2029,3.05,General Petite,Tops,Fine gauge
+913,1,2.0,0.0,0.325,2.0,General,Tops,Fine gauge
+914,2,5.0,100.0,0.2539,0.0,General,Tops,Fine gauge
+915,2,5.0,100.0,0.3128,5.0,General,Tops,Fine gauge
+916,29,4.55,93.1,0.2308,3.72,General Petite,Tops,Fine gauge
+917,14,4.29,92.86,0.1915,0.21,General,Tops,Fine gauge
+918,18,4.56,83.33,0.2142,2.0,General Petite,Tops,Fine gauge
+919,3,4.67,100.0,0.2778,4.0,General Petite,Tops,Fine gauge
+920,7,3.71,71.43,0.1956,0.71,General,Tops,Fine gauge
+921,31,3.81,67.74,0.2086,2.42,General,Tops,Sweaters
+922,1,5.0,100.0,0.0639,0.0,General,Tops,Sweaters
+923,9,3.78,88.89,0.2411,7.22,General,Tops,Sweaters
+924,1,3.0,100.0,0.0472,1.0,General,Tops,Sweaters
+925,1,5.0,100.0,0.4024,5.0,General,Tops,Sweaters
+926,9,4.0,77.78,0.1806,2.0,General,Tops,Sweaters
+927,214,4.12,79.91,0.2351,2.13,General,Tops,Sweaters
+928,7,4.14,100.0,0.2208,1.57,General,Tops,Sweaters
+929,20,3.2,55.0,0.1749,3.35,General,Tops,Sweaters
+930,8,4.12,87.5,0.1778,1.75,General,Tops,Sweaters
+931,8,4.0,62.5,0.1033,0.62,General,Tops,Sweaters
+932,9,4.0,77.78,0.2772,3.89,General,Tops,Sweaters
+933,63,4.3,85.71,0.2601,1.41,General,Tops,Sweaters
+934,4,4.0,75.0,0.2677,0.75,General,Tops,Sweaters
+935,11,4.0,72.73,0.2784,0.73,General,Tops,Sweaters
+936,358,4.33,82.12,0.2362,2.6,General Petite,Tops,Sweaters
+937,47,3.96,65.96,0.2074,2.3,General,Tops,Sweaters
+938,22,4.41,90.91,0.2402,1.64,General Petite,Tops,Sweaters
+939,83,4.48,89.16,0.2509,3.3,General,Tops,Sweaters
+940,130,4.38,87.69,0.2834,2.36,General Petite,Tops,Sweaters
+941,83,3.99,71.08,0.2243,1.66,General,Tops,Sweaters
+942,36,3.81,72.22,0.1963,1.36,General,Tops,Sweaters
+943,12,4.0,83.33,0.2257,1.5,General,Tops,Sweaters
+944,16,4.0,75.0,0.1987,0.44,General Petite,Tops,Sweaters
+945,70,4.07,77.14,0.2329,1.71,General,Tops,Sweaters
+946,9,2.44,22.22,0.1008,2.67,General,Tops,Sweaters
+947,13,4.0,84.62,0.2173,2.23,General,Tops,Sweaters
+948,10,3.2,50.0,0.1926,1.2,General Petite,Tops,Sweaters
+949,79,4.35,84.81,0.258,2.03,General,Tops,Sweaters
+950,11,3.91,63.64,0.1079,1.82,General,Tops,Sweaters
+951,2,3.0,0.0,0.214,2.0,General,Tops,Sweaters
+952,39,4.31,87.18,0.2868,1.36,General Petite,Tops,Sweaters
+953,1,5.0,100.0,0.2893,0.0,General,Tops,Sweaters
+954,7,4.29,85.71,0.1689,1.86,General,Tops,Sweaters
+955,1,4.0,100.0,0.112,0.0,General,Jackets,Jackets
+956,7,4.29,100.0,0.3328,1.43,General Petite,Jackets,Jackets
+957,1,5.0,100.0,0.1906,1.0,General Petite,Jackets,Jackets
+958,1,5.0,100.0,0.2097,0.0,General,Jackets,Jackets
+959,6,3.67,83.33,0.1846,0.67,General Petite,Jackets,Jackets
+960,26,4.65,96.15,0.3108,2.35,General Petite,Jackets,Jackets
+961,7,4.43,85.71,0.1958,1.57,General,Jackets,Jackets
+962,1,5.0,100.0,0.2952,4.0,General,Jackets,Jackets
+963,4,4.25,75.0,0.2221,2.0,General,Jackets,Jackets
+964,77,4.62,90.91,0.2574,2.0,General,Jackets,Jackets
+965,43,3.91,74.42,0.2028,2.12,General,Jackets,Jackets
+966,23,4.57,91.3,0.2509,1.35,General,Jackets,Jackets
+967,23,4.57,95.65,0.2632,2.39,General,Jackets,Jackets
+968,6,4.0,100.0,0.2168,0.0,General,Jackets,Jackets
+969,7,4.71,100.0,0.3734,1.0,General,Jackets,Jackets
+970,5,3.4,40.0,0.1177,1.4,General Petite,Jackets,Jackets
+971,5,3.4,60.0,0.2674,1.4,General Petite,Jackets,Jackets
+972,1,3.0,0.0,0.1536,5.0,General,Jackets,Jackets
+973,2,1.0,0.0,0.0674,9.5,General Petite,Jackets,Jackets
+974,50,4.1,80.0,0.1841,4.56,General Petite,Jackets,Jackets
+975,116,4.26,77.59,0.2308,3.22,General,Jackets,Jackets
+976,3,3.0,66.67,0.2201,4.0,General,Jackets,Jackets
+977,9,3.56,55.56,0.1508,4.22,General Petite,Jackets,Jackets
+978,2,3.5,50.0,0.0443,3.5,General Petite,Jackets,Jackets
+979,4,5.0,100.0,0.1727,0.5,General,Jackets,Jackets
+980,5,4.4,80.0,0.0044,4.2,General Petite,Jackets,Jackets
+981,6,4.0,83.33,0.1627,4.5,General Petite,Jackets,Jackets
+982,1,2.0,0.0,0.0795,2.0,General,Jackets,Jackets
+983,6,4.17,83.33,0.2228,0.0,General,Jackets,Jackets
+984,175,4.46,91.43,0.2539,2.47,General Petite,Jackets,Jackets
+985,47,4.51,93.62,0.2455,2.7,General,Jackets,Jackets
+986,32,3.47,62.5,0.2587,7.59,General Petite,Jackets,Jackets
+987,1,4.0,100.0,0.284,4.0,General,Bottoms,Skirts
+988,14,3.86,64.29,0.2538,3.36,General,Bottoms,Skirts
+989,1,4.0,100.0,0.144,3.0,General,Bottoms,Skirts
+990,7,4.14,71.43,0.1413,1.43,General,Bottoms,Skirts
+991,6,3.5,50.0,0.2454,1.17,General,Bottoms,Skirts
+992,21,4.19,85.71,0.2045,2.81,General Petite,Bottoms,Skirts
+993,58,4.31,86.21,0.2271,1.97,General Petite,Bottoms,Skirts
+994,9,4.11,77.78,0.1658,0.67,General Petite,Bottoms,Skirts
+995,36,4.11,80.56,0.2311,2.39,General,Bottoms,Skirts
+996,88,4.34,80.68,0.2449,2.39,General Petite,Bottoms,Skirts
+997,9,4.0,77.78,0.1971,5.0,General Petite,Bottoms,Skirts
+998,8,3.62,75.0,0.1941,1.0,General,Bottoms,Skirts
+999,37,4.19,89.19,0.2429,1.32,General,Bottoms,Skirts
+1000,3,4.67,100.0,0.2708,2.67,General,Bottoms,Skirts
+1001,43,4.37,86.05,0.2608,1.05,General,Bottoms,Skirts
+1002,13,3.77,69.23,0.2154,1.77,General,Bottoms,Skirts
+1003,22,4.36,90.91,0.2596,1.55,General,Bottoms,Skirts
+1004,25,4.4,92.0,0.2224,2.2,General,Bottoms,Skirts
+1005,8,4.75,87.5,0.2837,2.62,General,Bottoms,Skirts
+1006,5,2.6,20.0,0.1456,2.8,General,Bottoms,Skirts
+1007,2,3.0,50.0,0.0866,1.0,General Petite,Bottoms,Skirts
+1008,186,4.46,91.4,0.2778,2.11,General,Bottoms,Skirts
+1009,89,4.33,87.64,0.2597,3.31,General Petite,Bottoms,Skirts
+1010,6,3.83,83.33,0.2787,2.5,General Petite,Bottoms,Skirts
+1011,20,4.1,85.0,0.2565,1.75,General,Bottoms,Skirts
+1012,2,4.5,100.0,0.3133,3.5,General Petite,Bottoms,Skirts
+1013,8,3.12,50.0,0.23,1.0,General,Bottoms,Skirts
+1014,2,5.0,100.0,0.3184,1.0,General Petite,Bottoms,Skirts
+1015,14,4.43,92.86,0.2229,1.29,General,Bottoms,Skirts
+1016,24,3.33,62.5,0.1731,4.0,General,Bottoms,Skirts
+1017,1,4.0,100.0,0.323,0.0,General,Bottoms,Skirts
+1018,4,4.25,100.0,0.1252,1.75,General,Bottoms,Skirts
+1019,2,5.0,100.0,0.1742,0.0,General,Bottoms,Skirts
+1020,158,4.27,85.44,0.2549,2.73,General Petite,Bottoms,Skirts
+1021,13,3.85,76.92,0.1856,0.69,General,Bottoms,Skirts
+1022,204,4.44,88.73,0.2491,1.6,General,Bottoms,Jeans
+1023,1,3.0,0.0,0.1243,2.0,General,Bottoms,Jeans
+1024,35,4.66,97.14,0.244,1.26,General,Bottoms,Jeans
+1025,125,4.46,93.6,0.2395,1.47,General,Bottoms,Jeans
+1026,21,4.81,100.0,0.2495,1.05,General,Bottoms,Jeans
+1027,20,4.5,90.0,0.2705,0.9,General,Bottoms,Jeans
+1028,83,4.37,85.54,0.2595,2.4,General Petite,Bottoms,Jeans
+1029,1,5.0,100.0,0.0,0.0,General Petite,Bottoms,Jeans
+1030,72,4.14,84.72,0.2182,1.19,General,Bottoms,Jeans
+1031,9,4.0,88.89,0.1575,1.78,General,Bottoms,Jeans
+1032,1,3.0,100.0,0.35,2.0,General,Bottoms,Jeans
+1033,220,4.43,89.55,0.2474,1.95,General Petite,Bottoms,Jeans
+1034,4,4.25,75.0,0.2032,1.5,General Petite,Bottoms,Jeans
+1035,135,4.26,85.93,0.2637,2.57,General,Bottoms,Jeans
+1036,18,4.5,94.44,0.2054,0.94,General,Bottoms,Jeans
+1037,106,4.19,83.02,0.2357,1.34,General Petite,Bottoms,Jeans
+1038,69,4.36,88.41,0.217,2.06,General,Bottoms,Jeans
+1039,9,2.89,44.44,0.0377,2.56,General,Bottoms,Jeans
+1040,1,5.0,100.0,0.2018,0.0,General,Bottoms,Jeans
+1041,2,4.0,100.0,0.0757,3.0,General,Bottoms,Pants
+1042,23,4.3,86.96,0.2623,1.0,General,Bottoms,Pants
+1043,1,5.0,100.0,0.0808,0.0,General,Bottoms,Pants
+1044,42,4.14,78.57,0.2541,2.5,General Petite,Bottoms,Pants
+1045,7,3.43,57.14,0.2233,1.43,General,Bottoms,Pants
+1046,24,3.79,70.83,0.1777,2.71,General Petite,Bottoms,Pants
+1047,77,4.39,84.42,0.2881,2.22,General,Bottoms,Pants
+1048,17,4.53,94.12,0.2068,1.76,General Petite,Bottoms,Pants
+1049,32,4.31,87.5,0.2372,2.81,General Petite,Bottoms,Pants
+1050,19,4.32,89.47,0.2638,2.05,General Petite,Bottoms,Pants
+1051,37,4.41,91.89,0.2446,2.19,General Petite,Bottoms,Pants
+1052,37,4.14,78.38,0.1907,2.59,General,Bottoms,Pants
+1053,41,4.12,82.93,0.2174,1.95,General,Bottoms,Pants
+1054,33,4.12,69.7,0.2206,0.88,General,Bottoms,Pants
+1055,25,3.36,56.0,0.151,2.04,General Petite,Bottoms,Pants
+1056,213,4.31,87.32,0.2474,1.91,General Petite,Bottoms,Pants
+1057,2,3.5,50.0,0.2317,4.5,General Petite,Bottoms,Pants
+1058,2,2.5,50.0,0.0296,8.5,General,Bottoms,Pants
+1059,294,4.29,80.95,0.2403,2.57,General,Bottoms,Pants
+1060,103,4.28,84.47,0.2494,4.07,General Petite,Bottoms,Pants
+1061,15,4.13,93.33,0.2015,2.27,General,Bottoms,Pants
+1062,9,4.56,88.89,0.2466,3.78,General,Bottoms,Pants
+1063,7,3.71,71.43,0.2302,5.14,General,Bottoms,Pants
+1064,2,4.0,50.0,0.2367,1.0,General,Bottoms,Pants
+1065,16,3.88,81.25,0.2477,3.0,General,Bottoms,Pants
+1066,89,4.44,87.64,0.2331,2.42,General,Bottoms,Pants
+1067,2,5.0,100.0,0.2833,1.0,General Petite,Bottoms,Pants
+1068,114,4.29,83.33,0.2409,2.43,General,Bottoms,Pants
+1069,1,5.0,100.0,0.3765,0.0,General,Bottoms,Pants
+1070,46,4.37,82.61,0.2279,2.2,General,Bottoms,Pants
+1071,2,4.5,100.0,0.3302,2.5,General Petite,Dresses,Dresses
+1072,197,4.01,77.66,0.2198,3.21,General,Dresses,Dresses
+1073,2,3.5,50.0,0.3583,5.0,General Petite,Dresses,Dresses
+1074,45,4.29,86.67,0.2756,3.76,General,Dresses,Dresses
+1075,69,3.75,66.67,0.2627,1.84,General,Dresses,Dresses
+1076,46,3.67,69.57,0.2277,1.65,General,Dresses,Dresses
+1077,297,4.08,79.8,0.256,2.36,General,Dresses,Dresses
+1078,1021,4.2,82.08,0.2537,2.71,General Petite,Dresses,Dresses
+1079,63,3.62,65.08,0.171,3.84,General,Dresses,Dresses
+1080,289,4.29,83.74,0.2718,2.94,General,Dresses,Dresses
+1081,582,4.28,84.88,0.2264,3.13,General Petite,Dresses,Dresses
+1082,147,3.86,73.47,0.2316,3.16,General,Dresses,Dresses
+1083,249,4.36,85.54,0.2731,1.64,General,Dresses,Dresses
+1084,72,3.46,70.83,0.2563,2.43,General Petite,Dresses,Dresses
+1085,28,4.04,85.71,0.1995,2.07,General Petite,Dresses,Dresses
+1086,291,4.23,83.16,0.2339,3.22,General,Dresses,Dresses
+1087,129,3.75,67.44,0.232,1.95,General,Dresses,Dresses
+1088,30,3.57,63.33,0.2373,2.4,General,Dresses,Dresses
+1089,92,3.98,76.09,0.23,3.85,General Petite,Dresses,Dresses
+1090,2,4.0,50.0,0.2408,4.5,General Petite,Dresses,Dresses
+1091,58,4.1,81.03,0.2168,7.64,General,Dresses,Dresses
+1092,220,4.13,77.73,0.2434,3.64,General Petite,Dresses,Dresses
+1093,30,4.27,83.33,0.2564,2.77,General Petite,Dresses,Dresses
+1094,753,4.19,82.07,0.2442,3.26,General Petite,Dresses,Dresses
+1095,327,4.05,79.2,0.2179,3.9,General Petite,Dresses,Dresses
+1096,78,4.14,82.05,0.248,4.01,General,Dresses,Dresses
+1097,16,4.12,75.0,0.2653,4.31,General,Dresses,Dresses
+1098,86,4.0,75.58,0.2028,1.76,General,Dresses,Dresses
+1099,136,4.34,81.62,0.2594,2.7,General Petite,Dresses,Dresses
+1100,56,4.32,82.14,0.2843,2.55,General,Dresses,Dresses
+1101,5,4.2,80.0,0.1497,11.8,General Petite,Dresses,Dresses
+1102,6,3.5,66.67,0.2224,4.17,General Petite,Dresses,Dresses
+1103,36,4.11,83.33,0.257,3.47,General,Dresses,Dresses
+1104,184,4.04,76.63,0.2337,3.12,General,Dresses,Dresses
+1105,1,4.0,100.0,0.1456,0.0,General,Dresses,Dresses
+1106,5,4.0,80.0,0.1511,2.0,General Petite,Dresses,Dresses
+1107,27,3.89,77.78,0.1828,3.48,General,Dresses,Dresses
+1108,5,4.2,80.0,0.329,2.2,General,Dresses,Dresses
+1109,15,4.47,93.33,0.2778,1.47,General,Dresses,Dresses
+1110,480,4.28,83.96,0.2462,4.23,General Petite,Dresses,Dresses
+1111,58,4.19,81.03,0.2931,2.83,General Petite,Dresses,Dresses
+1112,9,4.56,77.78,0.1926,0.67,General Petite,Jackets,Outerwear
+1113,1,5.0,100.0,0.625,1.0,General,Jackets,Outerwear
+1114,4,4.75,100.0,0.3099,2.5,General,Jackets,Outerwear
+1115,23,4.43,86.96,0.3079,5.7,General,Jackets,Outerwear
+1116,35,3.71,71.43,0.2143,2.63,General,Jackets,Outerwear
+1117,25,4.36,84.0,0.2177,1.56,General Petite,Jackets,Outerwear
+1118,5,4.8,80.0,0.1501,1.0,General,Jackets,Outerwear
+1119,8,4.38,87.5,0.267,3.0,General Petite,Jackets,Jackets
+1120,2,4.5,100.0,0.2591,0.0,General,Jackets,Outerwear
+1121,48,3.77,70.83,0.1966,6.19,General,Jackets,Outerwear
+1122,17,3.65,70.59,0.1427,2.82,General,Jackets,Outerwear
+1123,30,4.7,100.0,0.2242,1.97,General Petite,Jackets,Outerwear
+1124,2,5.0,100.0,0.359,0.0,General Petite,Jackets,Outerwear
+1125,26,4.5,84.62,0.2485,0.73,General,Jackets,Outerwear
+1126,42,4.48,83.33,0.2304,0.74,General,Jackets,Outerwear
+1127,1,2.0,0.0,0.0829,10.0,General,Jackets,Outerwear
+1128,2,4.0,50.0,0.3406,10.0,General,Jackets,Outerwear
+1129,5,3.6,60.0,0.1389,0.4,General,Jackets,Outerwear
+1130,1,5.0,100.0,0.1378,3.0,General Petite,Jackets,Outerwear
+1131,19,3.89,78.95,0.2408,4.42,General,Jackets,Outerwear
+1132,3,5.0,100.0,0.1062,3.67,General Petite,Jackets,Outerwear
+1133,10,3.9,90.0,0.1978,1.8,General,Jackets,Outerwear
+1134,9,4.33,100.0,0.1957,2.0,General,Jackets,Outerwear
+1135,11,4.36,90.91,0.2645,2.09,General,Trend,Trend
+1136,1,4.0,100.0,0.374,0.0,General,Trend,Trend
+1137,4,4.5,100.0,0.3122,2.25,General,Trend,Trend
+1138,3,4.0,100.0,0.175,3.0,General,Trend,Trend
+1139,2,3.5,100.0,0.2679,2.5,General,Trend,Trend
+1140,5,4.2,80.0,0.2214,1.4,General Petite,Trend,Trend
+1141,4,4.75,100.0,0.3574,2.75,General,Trend,Trend
+1142,4,3.25,75.0,0.1983,1.5,General,Trend,Trend
+1143,1,4.0,100.0,0.6667,0.0,General,Trend,Trend
+1144,2,4.5,100.0,0.148,1.0,General,Trend,Trend
+1145,9,3.22,66.67,0.1001,1.33,General,Trend,Trend
+1146,10,3.6,70.0,0.1784,2.8,General,Trend,Trend
+1147,10,3.8,70.0,0.2141,2.5,General,Trend,Trend
+1148,3,4.67,100.0,0.3643,0.33,General Petite,Bottoms,Jeans
+1149,3,5.0,100.0,0.2198,1.33,General Petite,Dresses,Dresses
+1150,22,4.05,81.82,0.2508,4.32,General,Dresses,Dresses
+1151,11,4.64,100.0,0.3184,2.91,General,Dresses,Dresses
+1152,1,2.0,100.0,0.0675,4.0,General,Dresses,Dresses
+1153,5,4.0,80.0,0.1534,3.0,General,Dresses,Dresses
+1154,2,5.0,100.0,0.5208,0.0,Intimates,Intimate,Intimates
+1155,1,4.0,100.0,0.2226,0.0,Intimates,Intimate,Swim
+1156,1,5.0,100.0,0.418,0.0,Intimates,Intimate,Swim
+1157,1,5.0,100.0,0.2833,1.0,Intimates,Intimate,Swim
+1158,1,2.0,0.0,0.4,0.0,Intimates,Intimate,Intimates
+1159,2,4.5,100.0,0.4354,0.0,Intimates,Intimate,Layering
+1160,1,3.0,0.0,-0.0131,1.0,Intimates,Intimate,Layering
+1161,1,5.0,100.0,0.3064,0.0,Intimates,Intimate,Intimates
+1162,1,5.0,100.0,0.4926,0.0,Intimates,Intimate,Lounge
+1163,1,5.0,100.0,0.1882,0.0,Intimates,Intimate,Sleep
+1164,1,5.0,100.0,0.0,0.0,Intimates,Intimate,Layering
+1165,2,3.0,0.0,0.1433,5.5,Intimates,Intimate,Swim
+1166,1,5.0,100.0,0.675,1.0,Intimates,Intimate,Swim
+1167,4,3.0,50.0,0.1507,1.5,Intimates,Intimate,Swim
+1168,1,5.0,100.0,0.625,0.0,Intimates,Intimate,Swim
+1169,1,3.0,0.0,0.375,0.0,Intimates,Intimate,Swim
+1170,1,3.0,100.0,0.0836,0.0,Intimates,Intimate,Swim
+1171,2,5.0,100.0,0.6,0.5,Intimates,Intimate,Swim
+1172,1,5.0,100.0,0.3367,0.0,Intimates,Intimate,Swim
+1173,2,3.5,100.0,0.0884,0.0,Intimates,Intimate,Intimates
+1174,2,5.0,100.0,0.485,0.5,Intimates,Intimate,Swim
+1175,1,3.0,0.0,0.0317,5.0,Intimates,Intimate,Swim
+1176,1,1.0,0.0,0.0833,4.0,Intimates,Intimate,Swim
+1177,2,4.0,100.0,0.2093,1.0,Intimates,Intimate,Swim
+1178,1,4.0,100.0,0.1312,1.0,Intimates,Intimate,Intimates
+1179,1,4.0,100.0,0.1831,0.0,General Petite,Tops,Blouses
+1180,2,4.5,50.0,0.2861,1.5,General,Tops,Blouses
+1181,3,5.0,100.0,0.2516,0.67,General Petite,Tops,Knits
+1182,1,5.0,100.0,0.45,0.0,General Petite,Tops,Knits
+1183,1,5.0,100.0,0.0875,3.0,General,Tops,Knits
+1184,2,4.5,100.0,0.2639,0.0,General Petite,Tops,Knits
+1185,2,2.5,50.0,0.2375,0.5,General,Tops,Knits
+1186,1,4.0,100.0,0.1011,5.0,General,Tops,Knits
+1187,2,3.0,100.0,0.182,3.5,General,Tops,Knits
+1188,1,5.0,100.0,0.515,0.0,General Petite,Tops,Fine gauge
+1189,3,4.0,100.0,0.3656,2.67,General,Bottoms,Jeans
+1190,3,5.0,100.0,0.2592,1.0,General Petite,Bottoms,Jeans
+1191,1,4.0,100.0,-0.0229,0.0,General,Bottoms,Pants
+1192,4,4.75,100.0,0.2376,0.5,General,Bottoms,Pants
+1193,5,5.0,100.0,0.2511,2.6,General,Dresses,Dresses
+1194,1,5.0,100.0,0.7417,0.0,General,Dresses,Dresses
+1195,2,2.0,0.0,-0.0325,0.0,General,Dresses,Dresses
+1196,1,5.0,100.0,0.4372,0.0,General Petite,Dresses,Dresses
+1197,3,5.0,100.0,0.2777,0.33,General,Dresses,Dresses
+1198,2,4.0,100.0,0.2071,0.0,General,Dresses,Dresses
+1199,1,4.0,100.0,0.0947,0.0,General Petite,Dresses,Dresses
+1200,1,3.0,0.0,-0.0787,0.0,General,Dresses,Dresses
+1201,2,4.0,100.0,0.0,0.0,General,Dresses,Dresses
+1202,9,4.33,100.0,0.2701,0.44,General Petite,Dresses,Dresses
+1203,11,4.55,81.82,0.2038,0.18,Intimates,Intimate,Layering
+1204,2,4.5,100.0,0.2264,1.5,General Petite,Bottoms,Pants
+1205,2,5.0,100.0,0.3843,0.0,General,Bottoms,Pants

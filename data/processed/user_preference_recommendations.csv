@@ -1,0 +1,6 @@
+Clothing ID,Review_Count,Average_Rating,Recommendation_Rate,Average_Sentiment,Average_Positive_Feedback,Division_Name,Department_Name,Class_Name,Review_Confidence,Rating_Score,Sentiment_Score,Feedback_Score,Weighted_Score,User_Preference_Score
+25,1,5.0,100.0,0.47,0.0,General,Tops,Knits,0.1,1.0,0.735,0.0,0.4659,0.857
+1182,1,5.0,100.0,0.45,0.0,General Petite,Tops,Knits,0.1,1.0,0.725,0.0,0.4648,0.855
+22,1,5.0,100.0,0.4333,0.0,General,Tops,Knits,0.1,1.0,0.7166,0.0,0.4638,0.8533
+1181,3,5.0,100.0,0.2516,0.67,General Petite,Tops,Knits,0.2001,1.0,0.6258,0.0209,0.4964,0.8452
+872,544,4.38,87.68,0.2619,2.15,General,Tops,Knits,0.9093,0.876,0.631,0.0672,0.7125,0.8306

@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="StyleSense AI — personalized fashion recommendations.">
+    <title>StyleSense AI | Discover Your Style</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <header class="site-header">
+        <a class="brand" href="#">StyleSense<span> AI</span></a>
+        <nav aria-label="Main navigation">
+            <a href="#discover">Discover</a>
+            <a href="#recommendations">Recommendations</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <p class="eyebrow">YOUR PERSONAL STYLE ASSISTANT</p>
+            <h1>Find the style<br>that feels like <em>you.</em></h1>
+            <p class="hero-description">
+                Discover fashion picks tailored to your preferences,
+                powered by intelligent recommendations.
+            </p>
+            <a class="primary-link" href="#discover">Discover your style &darr;</a>
+        </section>
+
+        <section class="discover-section" id="discover">
+            <div class="section-heading">
+                <p class="eyebrow">MADE FOR YOU</p>
+                <h2>Build your style profile</h2>
+                <p>Choose your preferences to discover matching products.</p>
+            </div>
+
+            <form id="preference-form" class="preference-form">
+                <div class="field">
+                    <label for="department">Department</label>
+                    <select id="department" name="department">
+                        <option value="">All departments</option>
+                        <option value="Tops">Tops</option>
+                        <option value="Dresses">Dresses</option>
+                        <option value="Bottoms">Bottoms</option>
+                        <option value="Jackets">Jackets</option>
+                        <option value="Intimate">Intimate</option>
+                        <option value="Trend">Trend</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="product-class">Product category</label>
+                    <select id="product-class" name="class">
+                        <option value="">All categories</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="minimum-rating">Minimum rating</label>
+                    <select id="minimum-rating" name="minimum_rating">
+                        <option value="3">3 stars and above</option>
+                        <option value="4" selected>4 stars and above</option>
+                        <option value="4.5">4.5 stars and above</option>
+                        <option value="5">5 stars only</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="minimum-recommendation">
+                        Minimum recommendation rate
+                    </label>
+                    <select id="minimum-recommendation"
+                            name="minimum_recommendation_rate">
+                        <option value="60">60% and above</option>
+                        <option value="80" selected>80% and above</option>
+                        <option value="90">90% and above</option>
+                        <option value="100">100% only</option>
+                    </select>
+                </div>
+
+                <div class="field">
+                    <label for="minimum-reviews">Minimum customer reviews</label>
+                    <select id="minimum-reviews" name="minimum_reviews">
+                        <option value="1" selected>At least 1 review</option>
+                        <option value="5">At least 5 reviews</option>
+                        <option value="10">At least 10 reviews</option>
+                    </select>
+                </div>
+
+                <button class="primary-button" type="submit">
+                    Find my recommendations
+                </button>
+            </form>
+        </section>
+
+        <section class="results-section" id="recommendations">
+            <div class="section-heading">
+                <p class="eyebrow">YOUR EDIT</p>
+                <h2>Recommended for you</h2>
+                <p id="result-summary">Choose your preferences to get started.</p>
+            </div>
+
+            <div id="message" class="message" role="status" aria-live="polite">
+                Your personalized recommendations will appear here.
+            </div>
+
+            <div id="product-grid" class="product-grid"></div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <a class="brand" href="#">StyleSense<span> AI</span></a>
+        <p>Discover your style. One recommendation at a time.</p>
+    </footer>
+</body>
+</html>
